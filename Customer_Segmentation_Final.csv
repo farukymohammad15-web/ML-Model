@@ -1,0 +1,801 @@
+CustomerID,Gender,Age,Annual_Income,Spending_Score,Profession,Work_Experience,Family_Size,Marital_Status,Preferred_Category,Membership_Years,Avg_Monthly_Visits,Last_Purchase_Days_Ago,City_Tier,Discount_Usage_Rate,Credit_Score,Cluster,Segment_Name
+798,Female,60,46917,29,Doctor,37.0,3,Married,Travel,3.1,2,92,3,13.2,683,0,High-Value Loyal Customers
+770,Female,51,24377,10,Teacher,30.0,1,Single,Travel,5.3,2,39,1,15.9,679,0,High-Value Loyal Customers
+769,Female,47,23295,13,Engineer,28.0,1,Single,Beauty,2.1,3,12,2,34.1,672,0,High-Value Loyal Customers
+30,Male,41,26265,24,Retired,21.0,2,Married,Beauty,2.3,2,25,2,0.8,659,0,High-Value Loyal Customers
+27,Male,50,23805,9,Entrepreneur,30.0,1,Married,Travel,2.0,4,0,1,21.3,676,0,High-Value Loyal Customers
+25,Male,63,21315,5,Executive,36.0,1,Married,Travel,2.9,0,37,2,13.8,664,0,High-Value Loyal Customers
+21,Female,61,17757,16,Artist,34.0,1,Single,Beauty,2.8,0,10,2,21.0,672,0,High-Value Loyal Customers
+18,Male,41,20659,27,Retired,20.0,2,Single,Electronics,0.5,4,4,2,32.9,604,0,High-Value Loyal Customers
+800,Male,43,43302,51,Retired,20.0,2,Married,Electronics,1.1,5,2,1,22.9,654,0,High-Value Loyal Customers
+8,Female,48,23337,13,Homemaker,25.0,3,Single,Travel,5.8,4,11,2,34.6,750,0,High-Value Loyal Customers
+622,Male,39,48680,48,Engineer,19.0,2,Single,Sports,0.0,4,0,2,19.6,625,0,High-Value Loyal Customers
+42,Male,44,27446,6,Lawyer,19.0,2,Married,Sports,2.1,0,1,1,13.9,655,0,High-Value Loyal Customers
+612,Female,41,48729,63,Homemaker,19.0,2,Married,Sports,1.6,4,1,3,46.1,665,0,High-Value Loyal Customers
+611,Male,65,23102,16,Executive,42.0,2,Married,Electronics,1.6,1,3,3,20.0,634,0,High-Value Loyal Customers
+608,Female,53,24047,18,Engineer,31.0,3,Married,Books,3.3,4,4,3,23.3,641,0,High-Value Loyal Customers
+602,Male,40,15185,23,Engineer,13.0,1,Married,Home & Living,4.7,3,6,2,23.1,669,0,High-Value Loyal Customers
+599,Male,48,26343,19,Teacher,27.0,1,Married,Home & Living,3.1,0,5,1,27.3,670,0,High-Value Loyal Customers
+596,Male,63,61857,41,Executive,43.0,2,Married,Travel,2.3,4,19,1,44.5,708,0,High-Value Loyal Customers
+595,Male,43,43704,42,Lawyer,17.0,1,Single,Travel,2.8,6,28,1,36.6,711,0,High-Value Loyal Customers
+593,Male,57,25521,12,Engineer,34.0,1,Single,Home & Living,2.2,4,10,1,29.5,644,0,High-Value Loyal Customers
+58,Male,59,24497,1,Teacher,33.0,1,Single,Fashion,2.9,0,3,1,28.2,637,0,High-Value Loyal Customers
+55,Male,40,28682,27,Lawyer,19.0,2,Married,Travel,3.3,1,0,1,12.9,682,0,High-Value Loyal Customers
+589,Male,50,25490,22,Engineer,24.0,1,Married,Electronics,4.4,0,3,2,25.1,645,0,High-Value Loyal Customers
+574,Male,53,29940,20,Student,32.0,1,Divorced,Fashion,2.9,3,21,1,23.8,718,0,High-Value Loyal Customers
+572,Male,61,28341,19,Engineer,35.0,2,Married,Sports,0.9,0,3,1,0.6,654,0,High-Value Loyal Customers
+570,Male,44,60269,53,Lawyer,18.0,2,Married,Electronics,3.1,5,9,3,24.2,662,0,High-Value Loyal Customers
+566,Female,52,22597,10,Artist,31.0,2,Married,Electronics,5.4,0,22,1,27.9,616,0,High-Value Loyal Customers
+560,Male,42,26176,13,Executive,19.0,4,Single,Groceries,0.0,2,31,2,3.4,703,0,High-Value Loyal Customers
+556,Male,53,25682,11,Student,28.0,2,Single,Sports,1.4,3,7,2,30.9,628,0,High-Value Loyal Customers
+592,Female,60,25942,27,Teacher,44.0,2,Married,Groceries,3.5,2,10,1,4.8,653,0,High-Value Loyal Customers
+551,Female,45,26892,17,Engineer,26.0,1,Married,Sports,1.1,4,3,3,38.9,619,0,High-Value Loyal Customers
+547,Female,45,53405,48,Doctor,18.0,2,Single,Electronics,3.8,4,48,1,17.6,665,0,High-Value Loyal Customers
+545,Female,47,21949,31,Teacher,27.0,3,Single,Home & Living,4.4,0,6,1,21.4,660,0,High-Value Loyal Customers
+636,Male,56,37232,61,Retired,34.0,2,Married,Sports,0.6,2,31,1,33.1,712,0,High-Value Loyal Customers
+632,Male,51,25014,19,Artist,25.0,2,Single,Books,4.4,2,93,3,0.0,701,0,High-Value Loyal Customers
+629,Male,47,26730,19,Engineer,24.0,1,Married,Sports,5.3,0,0,3,18.9,653,0,High-Value Loyal Customers
+628,Female,49,32353,14,Retired,28.0,1,Married,Home & Living,2.1,4,9,1,17.1,687,0,High-Value Loyal Customers
+75,Male,59,23657,10,Executive,38.0,1,Married,Beauty,0.7,0,20,1,3.2,623,0,High-Value Loyal Customers
+74,Female,57,22954,17,Entrepreneur,36.0,3,Married,Groceries,4.0,0,3,1,33.8,580,0,High-Value Loyal Customers
+72,Male,50,23665,9,Engineer,26.0,2,Divorced,Groceries,0.0,1,6,3,24.8,675,0,High-Value Loyal Customers
+71,Male,42,45629,33,Homemaker,17.0,3,Married,Groceries,2.9,4,12,2,15.4,678,0,High-Value Loyal Customers
+69,Male,47,23613,11,Lawyer,20.0,1,Married,Home & Living,3.1,1,6,2,38.9,713,0,High-Value Loyal Customers
+68,Female,37,47629,57,Doctor,15.0,1,Married,Electronics,1.0,5,5,3,24.5,656,0,High-Value Loyal Customers
+65,Female,52,22201,22,Teacher,29.0,1,Single,Fashion,2.8,2,0,1,34.3,697,0,High-Value Loyal Customers
+64,Male,41,52560,44,Artist,15.0,3,Married,Home & Living,5.6,4,7,2,7.2,627,0,High-Value Loyal Customers
+63,Female,63,27891,16,Retired,17.0,3,Single,Home & Living,0.0,1,4,3,14.9,683,0,High-Value Loyal Customers
+62,Female,61,26718,17,Homemaker,37.0,1,Single,Travel,2.1,0,9,3,38.2,620,0,High-Value Loyal Customers
+756,Male,63,27241,12,Artist,41.0,2,Single,Sports,2.9,0,7,1,0.0,663,0,High-Value Loyal Customers
+543,Male,41,36753,55,Engineer,15.0,4,Married,Beauty,0.0,5,24,3,22.0,619,0,High-Value Loyal Customers
+542,Male,43,25853,11,Engineer,17.0,4,Divorced,Books,0.3,2,16,3,6.9,715,0,High-Value Loyal Customers
+538,Female,41,24667,40,Lawyer,15.0,2,Married,Beauty,6.2,0,22,1,23.4,675,0,High-Value Loyal Customers
+85,Female,40,55331,50,Executive,20.0,1,Single,Electronics,4.0,6,3,2,28.1,673,0,High-Value Loyal Customers
+84,Male,70,30614,4,Lawyer,47.0,1,Married,Groceries,7.7,5,0,3,22.0,705,0,High-Value Loyal Customers
+82,Male,51,27878,4,Student,31.0,4,Married,Travel,5.6,1,28,1,25.8,678,0,High-Value Loyal Customers
+81,Male,41,45479,73,Engineer,22.0,2,Married,Fashion,4.2,1,25,1,38.8,728,0,High-Value Loyal Customers
+104,Female,47,20834,1,Student,28.0,1,Married,Electronics,2.2,2,8,1,18.8,568,0,High-Value Loyal Customers
+523,Male,44,29729,26,Entrepreneur,25.0,1,Single,Travel,2.0,3,29,1,9.1,659,0,High-Value Loyal Customers
+520,Female,55,25517,23,Doctor,31.0,2,Married,Electronics,3.6,0,31,3,25.2,677,0,High-Value Loyal Customers
+519,Female,62,22575,28,Homemaker,17.0,1,Single,Books,6.5,0,3,3,17.6,705,0,High-Value Loyal Customers
+518,Female,53,22754,15,Entrepreneur,34.0,3,Single,Fashion,2.3,1,54,1,19.1,586,0,High-Value Loyal Customers
+517,Female,54,28195,24,Homemaker,34.0,3,Single,Electronics,2.7,0,23,3,32.4,651,0,High-Value Loyal Customers
+514,Male,48,17099,18,Doctor,22.0,2,Married,Travel,4.2,0,6,2,23.8,710,0,High-Value Loyal Customers
+509,Male,35,48713,35,Teacher,15.0,4,Single,Groceries,4.8,3,5,3,30.0,642,0,High-Value Loyal Customers
+508,Male,46,28093,2,Engineer,26.0,3,Single,Books,2.1,0,3,1,13.1,629,0,High-Value Loyal Customers
+502,Male,50,30225,18,Homemaker,30.0,3,Single,Home & Living,2.6,2,11,1,17.2,632,0,High-Value Loyal Customers
+495,Female,59,27266,12,Executive,35.0,1,Married,Groceries,1.5,2,10,1,24.1,653,0,High-Value Loyal Customers
+494,Female,40,29911,25,Doctor,17.0,2,Married,Travel,2.4,0,20,2,29.5,693,0,High-Value Loyal Customers
+491,Male,55,21734,1,Student,32.0,1,Married,Sports,6.0,2,13,1,19.5,667,0,High-Value Loyal Customers
+485,Female,55,43366,51,Teacher,40.0,3,Married,Sports,5.0,6,10,2,4.5,748,0,High-Value Loyal Customers
+98,Male,65,30634,24,Engineer,46.0,3,Married,Books,4.6,2,37,2,32.8,624,0,High-Value Loyal Customers
+767,Female,34,30817,15,Teacher,12.0,2,Married,Groceries,4.2,0,0,1,21.0,761,0,High-Value Loyal Customers
+762,Male,46,23137,33,Lawyer,20.0,2,Married,Electronics,2.3,2,4,1,17.4,667,0,High-Value Loyal Customers
+759,Male,54,50064,69,Lawyer,35.0,1,Divorced,Beauty,5.2,4,21,2,18.2,670,0,High-Value Loyal Customers
+758,Female,39,26989,11,Doctor,14.0,2,Single,Beauty,1.6,2,15,3,19.6,653,0,High-Value Loyal Customers
+757,Female,53,22723,14,Lawyer,26.0,2,Married,Travel,1.0,0,3,2,18.1,660,0,High-Value Loyal Customers
+655,Female,47,42739,56,Teacher,23.0,3,Divorced,Groceries,4.9,2,0,1,24.8,728,0,High-Value Loyal Customers
+647,Female,49,23720,1,Homemaker,21.0,1,Single,Home & Living,2.0,1,2,2,19.2,661,0,High-Value Loyal Customers
+646,Male,48,16502,18,Artist,31.0,2,Divorced,Groceries,1.5,0,8,2,11.6,660,0,High-Value Loyal Customers
+645,Male,40,49160,50,Engineer,16.0,2,Married,Sports,1.9,2,19,1,22.3,679,0,High-Value Loyal Customers
+479,Male,65,24109,27,Artist,44.0,1,Single,Travel,3.3,3,37,2,22.9,689,0,High-Value Loyal Customers
+477,Female,43,21880,15,Entrepreneur,19.0,1,Married,Electronics,3.9,2,37,2,21.8,634,0,High-Value Loyal Customers
+471,Female,41,47823,58,Artist,19.0,2,Married,Books,3.3,2,22,2,33.9,622,0,High-Value Loyal Customers
+468,Male,50,47495,41,Executive,31.0,2,Married,Electronics,4.6,5,3,3,20.7,652,0,High-Value Loyal Customers
+461,Male,46,26116,3,Executive,22.0,1,Single,Beauty,1.6,0,46,1,18.3,699,0,High-Value Loyal Customers
+483,Male,53,28666,15,Homemaker,31.0,3,Single,Fashion,2.7,2,9,2,15.6,633,0,High-Value Loyal Customers
+124,Female,64,70598,23,Homemaker,41.0,2,Married,Home & Living,2.9,0,3,3,13.0,623,0,High-Value Loyal Customers
+123,Female,50,51102,50,Teacher,29.0,2,Single,Travel,3.6,7,2,1,17.4,657,0,High-Value Loyal Customers
+120,Female,37,47305,37,Doctor,14.0,2,Married,Electronics,0.0,5,6,3,31.7,607,0,High-Value Loyal Customers
+119,Male,36,58633,34,Teacher,16.0,3,Single,Fashion,6.4,1,4,2,19.5,665,0,High-Value Loyal Customers
+118,Male,56,23649,46,Entrepreneur,34.0,1,Single,Books,2.0,3,5,1,15.9,694,0,High-Value Loyal Customers
+114,Female,42,45132,48,Entrepreneur,26.0,1,Single,Travel,1.5,6,19,2,35.2,708,0,High-Value Loyal Customers
+109,Male,54,26734,32,Teacher,31.0,1,Married,Books,2.9,4,19,2,16.1,677,0,High-Value Loyal Customers
+134,Male,42,21464,17,Entrepreneur,14.0,1,Single,Groceries,3.1,0,1,2,0.0,667,0,High-Value Loyal Customers
+457,Female,64,32401,25,Artist,40.0,3,Single,Beauty,1.2,0,18,3,19.6,754,0,High-Value Loyal Customers
+452,Male,50,19597,21,Student,27.0,3,Single,Fashion,3.1,0,0,1,17.8,647,0,High-Value Loyal Customers
+451,Male,60,28538,24,Lawyer,35.0,1,Single,Electronics,4.6,3,37,3,38.9,648,0,High-Value Loyal Customers
+448,Male,51,27001,13,Engineer,28.0,2,Single,Electronics,1.6,2,40,3,13.4,714,0,High-Value Loyal Customers
+447,Male,53,28170,17,Teacher,29.0,2,Married,Travel,3.1,0,27,3,10.0,671,0,High-Value Loyal Customers
+130,Male,70,20988,17,Retired,47.0,1,Single,Sports,4.9,3,0,3,21.0,664,0,High-Value Loyal Customers
+748,Male,45,46206,53,Entrepreneur,26.0,2,Single,Travel,4.6,8,60,2,33.9,651,0,High-Value Loyal Customers
+743,Male,49,29491,22,Lawyer,28.0,2,Divorced,Beauty,1.2,2,4,1,29.6,668,0,High-Value Loyal Customers
+741,Female,54,21895,11,Executive,29.0,4,Married,Home & Living,3.7,0,14,2,22.4,649,0,High-Value Loyal Customers
+155,Male,37,23919,29,Doctor,16.0,1,Married,Beauty,3.8,2,3,2,22.6,637,0,High-Value Loyal Customers
+433,Male,49,23634,19,Artist,26.0,1,Married,Sports,7.9,5,26,1,12.7,654,0,High-Value Loyal Customers
+668,Male,48,56809,44,Homemaker,25.0,1,Married,Fashion,2.4,8,14,3,18.8,721,0,High-Value Loyal Customers
+666,Female,49,22802,16,Artist,27.0,2,Married,Books,2.4,1,3,1,17.5,607,0,High-Value Loyal Customers
+665,Male,50,47809,62,Doctor,28.0,4,Married,Electronics,1.7,2,38,1,11.1,608,0,High-Value Loyal Customers
+663,Male,54,54382,52,Doctor,33.0,2,Single,Books,3.1,4,8,3,10.9,698,0,High-Value Loyal Customers
+660,Male,49,24746,18,Engineer,23.0,1,Married,Sports,4.2,3,32,2,42.6,704,0,High-Value Loyal Customers
+658,Male,40,18856,36,Entrepreneur,22.0,2,Single,Travel,1.8,2,3,1,15.5,694,0,High-Value Loyal Customers
+431,Female,48,23266,2,Retired,23.0,2,Single,Groceries,1.4,3,41,2,14.0,686,0,High-Value Loyal Customers
+425,Male,44,29357,2,Executive,17.0,3,Single,Travel,0.8,3,3,1,37.6,688,0,High-Value Loyal Customers
+424,Female,35,52293,38,Student,16.0,1,Married,Electronics,0.3,2,48,1,16.6,657,0,High-Value Loyal Customers
+422,Female,39,22816,21,Engineer,14.0,1,Married,Sports,2.7,3,31,2,5.9,619,0,High-Value Loyal Customers
+419,Female,53,24120,23,Retired,33.0,2,Married,Beauty,5.0,3,29,1,26.0,630,0,High-Value Loyal Customers
+439,Female,49,52412,18,Executive,25.0,5,Married,Fashion,2.0,5,18,3,3.9,653,0,High-Value Loyal Customers
+136,Male,52,23232,30,Executive,17.0,1,Single,Groceries,0.7,4,9,2,32.7,726,0,High-Value Loyal Customers
+413,Female,40,49327,49,Executive,22.0,3,Divorced,Fashion,1.2,6,3,3,28.4,638,0,High-Value Loyal Customers
+405,Female,50,16818,16,Homemaker,26.0,1,Married,Groceries,4.0,4,5,2,12.5,693,0,High-Value Loyal Customers
+402,Male,62,23359,30,Entrepreneur,35.0,1,Single,Sports,2.9,3,9,2,4.3,539,0,High-Value Loyal Customers
+401,Female,41,37642,52,Teacher,15.0,4,Married,Books,2.4,3,4,2,27.7,696,0,High-Value Loyal Customers
+399,Male,56,47796,62,Doctor,33.0,1,Divorced,Fashion,1.6,4,2,2,37.0,647,0,High-Value Loyal Customers
+396,Male,44,54368,39,Student,17.0,2,Married,Travel,6.1,5,23,1,27.2,656,0,High-Value Loyal Customers
+394,Male,39,48565,46,Teacher,13.0,2,Single,Beauty,3.0,2,12,1,31.1,692,0,High-Value Loyal Customers
+389,Male,38,58594,50,Engineer,17.0,1,Married,Sports,4.0,5,17,2,15.9,607,0,High-Value Loyal Customers
+386,Female,51,27438,12,Lawyer,29.0,3,Single,Fashion,7.2,0,4,1,8.3,683,0,High-Value Loyal Customers
+385,Male,51,34198,1,Teacher,23.0,1,Single,Electronics,2.2,2,59,2,8.0,650,0,High-Value Loyal Customers
+382,Female,50,19931,31,Executive,33.0,1,Married,Groceries,3.5,0,0,1,16.4,668,0,High-Value Loyal Customers
+380,Female,51,26518,16,Homemaker,28.0,1,Single,Groceries,2.5,0,1,1,25.0,710,0,High-Value Loyal Customers
+373,Male,53,30983,1,Artist,35.0,2,Single,Fashion,5.2,2,53,2,12.4,698,0,High-Value Loyal Customers
+171,Female,54,47286,57,Entrepreneur,32.0,2,Single,Beauty,4.2,1,16,1,26.2,689,0,High-Value Loyal Customers
+167,Male,66,28303,4,Student,46.0,1,Married,Home & Living,1.3,4,1,2,14.1,650,0,High-Value Loyal Customers
+160,Female,56,31535,5,Doctor,29.0,2,Married,Home & Living,7.3,1,4,2,28.1,604,0,High-Value Loyal Customers
+192,Female,68,26139,32,Artist,50.0,1,Single,Electronics,4.5,3,13,1,19.4,632,0,High-Value Loyal Customers
+371,Male,58,26693,3,Retired,33.0,1,Divorced,Fashion,3.2,1,10,1,27.3,609,0,High-Value Loyal Customers
+682,Female,41,26044,23,Lawyer,16.0,2,Married,Beauty,2.5,2,18,1,13.0,679,0,High-Value Loyal Customers
+681,Female,55,19557,8,Student,34.0,1,Single,Sports,2.2,2,23,2,18.3,598,0,High-Value Loyal Customers
+679,Male,57,32082,20,Homemaker,36.0,1,Married,Beauty,3.3,4,81,3,12.7,668,0,High-Value Loyal Customers
+676,Male,51,26124,23,Artist,26.0,3,Divorced,Travel,2.0,0,35,3,27.8,654,0,High-Value Loyal Customers
+673,Female,40,24958,16,Lawyer,18.0,2,Single,Groceries,2.9,1,0,2,29.9,594,0,High-Value Loyal Customers
+365,Female,53,24134,9,Retired,33.0,4,Married,Fashion,6.3,0,28,1,18.6,658,0,High-Value Loyal Customers
+362,Female,38,33247,19,Executive,18.0,1,Divorced,Groceries,2.9,0,10,1,32.5,668,0,High-Value Loyal Customers
+361,Female,38,28769,22,Engineer,17.0,3,Single,Beauty,3.7,4,25,1,8.7,709,0,High-Value Loyal Customers
+358,Male,46,35229,65,Lawyer,19.0,2,Married,Beauty,4.6,5,18,2,24.7,589,0,High-Value Loyal Customers
+356,Female,66,24860,13,Engineer,45.0,1,Married,Books,5.8,1,4,2,36.5,612,0,High-Value Loyal Customers
+355,Female,49,31697,11,Teacher,29.0,1,Married,Travel,1.8,0,6,1,23.8,649,0,High-Value Loyal Customers
+185,Female,49,40217,44,Homemaker,23.0,1,Married,Sports,7.4,7,20,1,13.3,688,0,High-Value Loyal Customers
+179,Female,56,26622,35,Teacher,31.0,1,Single,Groceries,2.2,0,17,1,20.9,716,0,High-Value Loyal Customers
+724,Male,40,62160,56,Artist,23.0,2,Single,Home & Living,3.1,1,27,1,42.3,660,0,High-Value Loyal Customers
+349,Female,44,24800,25,Doctor,21.0,3,Single,Books,5.7,7,5,1,15.7,621,0,High-Value Loyal Customers
+346,Male,57,27865,35,Artist,37.0,1,Married,Travel,2.9,1,1,1,4.4,720,0,High-Value Loyal Customers
+338,Female,46,21250,23,Artist,21.0,1,Single,Travel,5.7,0,23,3,15.0,646,0,High-Value Loyal Customers
+336,Female,52,25739,15,Teacher,28.0,1,Married,Electronics,3.2,0,65,2,24.1,649,0,High-Value Loyal Customers
+334,Male,56,59298,39,Doctor,33.0,2,Divorced,Groceries,4.7,6,5,1,27.4,706,0,High-Value Loyal Customers
+674,Male,55,24591,7,Engineer,34.0,4,Single,Electronics,1.3,5,17,2,32.2,705,0,High-Value Loyal Customers
+331,Female,55,20449,19,Homemaker,35.0,1,Married,Travel,2.6,6,18,2,13.9,672,0,High-Value Loyal Customers
+307,Female,63,31406,28,Homemaker,44.0,2,Married,Electronics,4.8,2,12,3,26.4,678,0,High-Value Loyal Customers
+697,Male,38,46435,53,Homemaker,11.0,4,Single,Beauty,4.0,1,61,2,20.4,585,0,High-Value Loyal Customers
+302,Male,58,21885,30,Artist,32.0,3,Divorced,Groceries,3.3,0,21,1,19.5,631,0,High-Value Loyal Customers
+301,Male,39,45449,63,Retired,19.0,2,Single,Home & Living,5.1,2,19,3,20.5,678,0,High-Value Loyal Customers
+295,Male,37,24744,15,Executive,26.0,2,Married,Travel,2.1,2,2,1,22.0,681,0,High-Value Loyal Customers
+294,Male,44,41834,56,Entrepreneur,20.0,2,Single,Sports,0.0,5,38,1,20.7,614,0,High-Value Loyal Customers
+289,Female,51,49728,36,Engineer,24.0,3,Married,Books,2.6,4,34,3,39.3,683,0,High-Value Loyal Customers
+287,Male,62,29426,9,Teacher,43.0,2,Single,Electronics,1.9,1,5,1,20.5,692,0,High-Value Loyal Customers
+722,Male,58,27788,12,Artist,33.0,1,Married,Books,4.8,0,29,3,24.1,617,0,High-Value Loyal Customers
+721,Male,47,20522,28,Retired,25.0,2,Single,Fashion,1.4,0,32,1,35.9,629,0,High-Value Loyal Customers
+206,Male,52,51970,52,Student,27.0,3,Married,Electronics,2.7,5,53,1,25.6,647,0,High-Value Loyal Customers
+204,Female,52,23883,10,Doctor,28.0,4,Married,Books,4.9,2,18,3,9.8,791,0,High-Value Loyal Customers
+198,Male,49,40381,47,Retired,28.0,4,Single,Fashion,3.0,4,56,2,12.0,662,0,High-Value Loyal Customers
+195,Male,51,27738,20,Artist,34.0,1,Married,Beauty,6.5,0,0,1,30.1,651,0,High-Value Loyal Customers
+194,Female,43,24662,15,Doctor,17.0,1,Single,Fashion,1.1,1,6,2,11.0,685,0,High-Value Loyal Customers
+281,Male,57,48247,42,Entrepreneur,37.0,2,Married,Groceries,3.6,5,6,2,23.7,739,0,High-Value Loyal Customers
+280,Male,40,28013,31,Teacher,20.0,1,Single,Sports,2.1,0,7,1,24.9,595,0,High-Value Loyal Customers
+279,Male,60,28009,26,Retired,36.0,3,Single,Beauty,0.0,0,7,1,20.7,596,0,High-Value Loyal Customers
+720,Female,53,29731,21,Doctor,31.0,5,Single,Fashion,5.1,1,9,2,24.4,707,0,High-Value Loyal Customers
+717,Male,52,20531,10,Engineer,33.0,1,Married,Sports,2.7,2,10,1,13.7,665,0,High-Value Loyal Customers
+716,Male,41,27846,15,Doctor,16.0,2,Single,Fashion,3.0,2,15,1,22.0,655,0,High-Value Loyal Customers
+689,Female,58,21943,14,Teacher,31.0,3,Married,Fashion,3.3,2,3,3,16.1,728,0,High-Value Loyal Customers
+209,Female,38,31886,31,Engineer,12.0,3,Married,Groceries,2.8,1,2,3,2.8,744,0,High-Value Loyal Customers
+733,Female,43,22555,17,Lawyer,17.0,1,Single,Electronics,4.7,0,0,1,15.0,596,0,High-Value Loyal Customers
+730,Female,53,21938,18,Teacher,29.0,2,Single,Books,1.8,3,0,3,41.6,574,0,High-Value Loyal Customers
+729,Female,42,25867,26,Homemaker,16.0,3,Married,Home & Living,2.9,1,1,1,10.0,687,0,High-Value Loyal Customers
+235,Male,33,27637,17,Entrepreneur,7.0,2,Single,Home & Living,5.0,1,2,1,37.5,710,0,High-Value Loyal Customers
+708,Male,61,17431,38,Engineer,35.0,2,Married,Travel,3.9,0,15,3,5.8,650,0,High-Value Loyal Customers
+270,Female,50,16597,24,Teacher,27.0,2,Married,Travel,0.9,1,13,1,37.6,638,0,High-Value Loyal Customers
+265,Male,38,22713,14,Executive,15.0,1,Married,Books,5.0,2,2,3,22.8,634,0,High-Value Loyal Customers
+264,Male,52,21414,6,Artist,29.0,1,Single,Home & Living,3.1,1,1,2,19.5,700,0,High-Value Loyal Customers
+261,Male,57,28595,17,Retired,32.0,1,Married,Sports,2.9,2,6,2,16.0,648,0,High-Value Loyal Customers
+260,Female,66,21647,22,Doctor,47.0,3,Married,Electronics,5.4,4,23,1,19.0,643,0,High-Value Loyal Customers
+259,Female,53,27027,20,Doctor,29.0,1,Married,Travel,1.6,1,1,1,24.6,706,0,High-Value Loyal Customers
+283,Male,61,32376,8,Retired,37.0,1,Single,Sports,5.3,3,10,2,13.0,694,0,High-Value Loyal Customers
+254,Male,39,56943,40,Artist,21.0,3,Married,Fashion,2.9,4,4,3,18.2,694,0,High-Value Loyal Customers
+250,Female,47,19959,14,Executive,26.0,4,Single,Home & Living,0.0,3,20,3,4.8,666,0,High-Value Loyal Customers
+240,Female,48,27126,23,Entrepreneur,23.0,4,Single,Home & Living,0.0,0,25,1,25.0,649,0,High-Value Loyal Customers
+709,Female,46,29488,20,Homemaker,23.0,1,Married,Beauty,3.1,4,6,1,5.4,668,0,High-Value Loyal Customers
+234,Male,54,29478,20,Engineer,35.0,3,Married,Sports,4.7,2,10,1,6.5,700,0,High-Value Loyal Customers
+233,Female,56,20515,17,Doctor,35.0,1,Married,Groceries,0.5,0,1,1,4.7,694,0,High-Value Loyal Customers
+232,Female,48,61953,51,Engineer,25.0,2,Married,Beauty,1.4,3,7,2,20.1,694,0,High-Value Loyal Customers
+230,Female,42,43044,37,Teacher,24.0,2,Single,Books,1.6,0,6,1,28.9,740,0,High-Value Loyal Customers
+226,Female,42,32897,1,Retired,20.0,2,Married,Travel,5.1,3,48,2,16.2,666,0,High-Value Loyal Customers
+224,Female,44,62336,36,Student,20.0,1,Married,Sports,1.9,7,20,1,25.0,613,0,High-Value Loyal Customers
+222,Male,49,19577,24,Homemaker,28.0,2,Married,Groceries,6.9,2,46,3,26.8,700,0,High-Value Loyal Customers
+218,Female,52,27399,3,Engineer,27.0,1,Single,Groceries,4.5,3,0,2,15.5,644,0,High-Value Loyal Customers
+256,Male,48,19260,20,Student,31.0,1,Single,Electronics,1.8,2,12,2,19.7,629,0,High-Value Loyal Customers
+796,Male,38,54829,32,Student,17.0,1,Single,Sports,4.0,8,6,1,25.9,594,0,High-Value Loyal Customers
+795,Male,37,55874,35,Lawyer,15.0,1,Single,Beauty,0.6,1,16,1,26.2,736,0,High-Value Loyal Customers
+789,Female,62,22593,14,Homemaker,36.0,3,Single,Travel,0.0,1,26,2,15.4,685,0,High-Value Loyal Customers
+787,Male,49,28161,17,Executive,26.0,1,Single,Travel,4.9,3,9,3,25.3,615,0,High-Value Loyal Customers
+10,Male,41,47600,36,Executive,17.0,1,Single,Travel,0.0,3,2,3,22.1,599,0,High-Value Loyal Customers
+772,Male,43,24818,10,Doctor,17.0,1,Single,Travel,1.8,0,6,3,18.9,619,0,High-Value Loyal Customers
+38,Female,40,22727,16,Doctor,20.0,2,Married,Electronics,4.7,3,7,1,35.6,612,0,High-Value Loyal Customers
+37,Male,35,41960,29,Teacher,8.0,2,Married,Travel,2.2,3,8,2,27.8,711,0,High-Value Loyal Customers
+35,Male,58,22035,14,Teacher,36.0,2,Single,Fashion,1.9,0,19,1,41.0,630,0,High-Value Loyal Customers
+784,Female,68,24753,30,Doctor,43.0,1,Married,Fashion,0.0,3,20,1,21.9,671,0,High-Value Loyal Customers
+783,Male,56,25841,8,Engineer,36.0,1,Divorced,Groceries,3.7,4,0,3,19.0,645,0,High-Value Loyal Customers
+776,Male,60,27738,15,Executive,41.0,2,Married,Travel,0.0,0,31,1,21.8,634,0,High-Value Loyal Customers
+775,Male,52,26644,20,Executive,28.0,2,Married,Fashion,3.7,0,4,3,27.6,663,0,High-Value Loyal Customers
+774,Male,43,29053,25,Lawyer,19.0,2,Single,Home & Living,2.2,2,9,1,19.4,641,0,High-Value Loyal Customers
+17,Male,27,37589,76,Engineer,8.0,1,Divorced,Books,2.8,8,7,3,60.1,669,1,Budget-Conscious Customers
+773,Female,18,26462,92,Teacher,1.0,1,Single,Groceries,3.7,11,41,2,59.9,680,1,Budget-Conscious Customers
+31,Male,21,36627,85,Teacher,3.0,2,Single,Electronics,2.7,7,0,1,68.0,686,1,Budget-Conscious Customers
+781,Female,32,23566,60,Entrepreneur,12.0,1,Single,Books,1.7,6,8,3,44.5,606,1,Budget-Conscious Customers
+782,Male,23,40265,80,Teacher,0.0,2,Married,Electronics,2.6,5,27,3,48.4,671,1,Budget-Conscious Customers
+223,Male,27,31035,67,Retired,0.0,1,Married,Travel,4.4,5,28,1,67.9,640,1,Budget-Conscious Customers
+237,Female,35,29709,77,Artist,13.0,1,Divorced,Books,2.1,7,28,2,47.5,652,1,Budget-Conscious Customers
+242,Female,39,26781,77,Artist,13.0,2,Single,Books,2.7,8,35,1,65.5,712,1,Budget-Conscious Customers
+245,Male,24,38311,87,Doctor,0.0,1,Single,Sports,3.3,14,6,1,59.0,639,1,Budget-Conscious Customers
+246,Male,18,25753,75,Retired,0.0,2,Married,Electronics,1.9,10,39,2,60.7,647,1,Budget-Conscious Customers
+247,Female,21,29006,62,Engineer,0.0,3,Single,Fashion,5.5,10,6,1,65.2,701,1,Budget-Conscious Customers
+248,Female,44,28907,87,Student,24.0,1,Divorced,Sports,2.2,9,10,1,48.4,692,1,Budget-Conscious Customers
+251,Male,28,16487,72,Entrepreneur,0.0,1,Single,Fashion,4.2,13,36,2,63.6,605,1,Budget-Conscious Customers
+255,Female,37,31983,76,Engineer,10.0,1,Single,Electronics,4.8,12,27,1,58.8,599,1,Budget-Conscious Customers
+600,Female,44,26043,72,Homemaker,21.0,1,Married,Electronics,1.3,8,61,1,43.7,667,1,Budget-Conscious Customers
+601,Male,32,34223,86,Doctor,14.0,1,Divorced,Beauty,2.4,13,5,1,58.9,740,1,Budget-Conscious Customers
+609,Male,36,28077,63,Entrepreneur,9.0,1,Married,Sports,7.5,10,34,1,32.1,634,1,Budget-Conscious Customers
+619,Female,33,35772,75,Engineer,11.0,1,Divorced,Books,0.7,11,4,1,67.8,629,1,Budget-Conscious Customers
+581,Female,34,25529,75,Executive,10.0,1,Married,Beauty,6.5,10,13,1,54.3,686,1,Budget-Conscious Customers
+583,Male,25,27879,61,Homemaker,17.0,1,Married,Electronics,3.1,10,6,2,59.7,616,1,Budget-Conscious Customers
+584,Male,30,43437,55,Teacher,6.0,2,Single,Beauty,7.9,5,28,3,47.6,717,1,Budget-Conscious Customers
+585,Male,29,34920,98,Retired,7.0,1,Married,Electronics,0.0,8,22,1,62.6,626,1,Budget-Conscious Customers
+586,Male,34,35102,80,Teacher,11.0,1,Single,Groceries,3.7,10,38,3,44.8,630,1,Budget-Conscious Customers
+587,Male,41,24831,71,Artist,15.0,1,Married,Fashion,6.7,12,16,2,50.8,646,1,Budget-Conscious Customers
+78,Female,33,27846,60,Homemaker,12.0,1,Divorced,Groceries,4.0,8,12,1,69.5,656,1,Budget-Conscious Customers
+48,Male,32,33045,98,Homemaker,9.0,2,Single,Sports,2.5,14,13,2,69.0,712,1,Budget-Conscious Customers
+52,Female,38,35765,72,Homemaker,20.0,3,Single,Sports,2.1,10,21,1,61.0,653,1,Budget-Conscious Customers
+269,Female,45,33049,84,Executive,22.0,1,Divorced,Sports,2.4,9,9,1,39.2,687,1,Budget-Conscious Customers
+272,Male,26,28960,80,Engineer,4.0,1,Married,Sports,0.0,8,2,1,48.5,673,1,Budget-Conscious Customers
+707,Female,18,28250,71,Teacher,0.0,1,Single,Groceries,1.9,9,25,3,64.6,694,1,Budget-Conscious Customers
+734,Female,31,23259,92,Entrepreneur,9.0,1,Divorced,Electronics,1.7,14,41,1,66.8,570,1,Budget-Conscious Customers
+735,Male,20,30180,57,Lawyer,0.0,1,Divorced,Books,3.2,8,33,1,56.2,727,1,Budget-Conscious Customers
+555,Male,34,26155,94,Teacher,5.0,1,Married,Sports,2.8,8,17,3,68.5,659,1,Budget-Conscious Customers
+561,Male,19,49202,53,Retired,2.0,2,Married,Books,3.2,4,25,1,37.5,737,1,Budget-Conscious Customers
+562,Female,30,60673,54,Homemaker,9.0,1,Married,Beauty,0.0,4,39,1,39.8,678,1,Budget-Conscious Customers
+568,Female,24,28896,69,Homemaker,4.0,1,Married,Sports,0.8,13,12,2,56.0,657,1,Budget-Conscious Customers
+579,Male,41,73418,70,Homemaker,20.0,1,Single,Fashion,2.9,8,34,3,59.3,652,1,Budget-Conscious Customers
+580,Female,23,31846,66,Executive,1.0,1,Married,Electronics,4.1,10,35,3,56.5,685,1,Budget-Conscious Customers
+212,Male,26,34039,71,Student,0.0,1,Single,Sports,3.0,10,4,3,54.4,699,1,Budget-Conscious Customers
+276,Female,23,25036,81,Teacher,1.0,2,Divorced,Books,4.6,10,17,2,46.7,653,1,Budget-Conscious Customers
+277,Male,20,28527,80,Teacher,0.0,1,Divorced,Fashion,2.7,13,7,2,32.0,700,1,Budget-Conscious Customers
+278,Female,22,29756,67,Entrepreneur,4.0,1,Single,Books,1.2,10,1,1,43.7,671,1,Budget-Conscious Customers
+282,Male,33,35248,85,Student,12.0,2,Married,Fashion,3.8,10,58,1,55.1,658,1,Budget-Conscious Customers
+193,Female,22,49002,52,Homemaker,0.0,3,Married,Groceries,1.8,3,50,1,37.5,679,1,Budget-Conscious Customers
+197,Male,38,54477,47,Teacher,11.0,2,Single,Groceries,0.1,4,12,1,61.2,679,1,Budget-Conscious Customers
+626,Female,26,31099,66,Artist,0.0,1,Married,Home & Living,3.3,12,20,2,49.5,618,1,Budget-Conscious Customers
+73,Female,27,31528,94,Retired,6.0,1,Married,Beauty,1.9,10,28,2,62.9,684,1,Budget-Conscious Customers
+634,Female,27,35479,83,Executive,4.0,1,Married,Electronics,0.0,9,22,1,35.6,698,1,Budget-Conscious Customers
+637,Male,35,27227,71,Student,8.0,1,Single,Travel,3.6,10,37,2,39.8,662,1,Budget-Conscious Customers
+546,Female,18,31224,82,Artist,1.0,1,Married,Groceries,0.9,9,4,2,61.9,623,1,Budget-Conscious Customers
+554,Female,28,32894,80,Lawyer,8.0,1,Single,Sports,1.5,11,2,2,61.5,671,1,Budget-Conscious Customers
+95,Female,22,25495,74,Engineer,0.0,1,Married,Beauty,4.2,9,0,1,52.9,657,1,Budget-Conscious Customers
+96,Male,33,33682,74,Doctor,9.0,1,Divorced,Books,2.0,5,12,3,57.6,680,1,Budget-Conscious Customers
+532,Female,18,31853,69,Homemaker,2.0,1,Divorced,Beauty,0.0,9,43,1,50.5,650,1,Budget-Conscious Customers
+535,Female,26,37035,80,Entrepreneur,7.0,1,Married,Sports,4.4,11,47,3,59.3,647,1,Budget-Conscious Customers
+536,Male,30,27272,82,Doctor,8.0,1,Single,Fashion,1.3,10,8,1,50.0,666,1,Budget-Conscious Customers
+537,Male,41,26925,93,Retired,18.0,1,Single,Sports,4.0,12,28,2,61.8,650,1,Budget-Conscious Customers
+200,Male,32,21709,76,Teacher,11.0,1,Married,Books,6.4,12,8,1,44.6,740,1,Budget-Conscious Customers
+201,Male,41,30984,70,Student,15.0,1,Married,Books,2.7,12,18,3,78.8,612,1,Budget-Conscious Customers
+207,Male,28,27886,83,Executive,9.0,1,Single,Books,7.7,7,10,3,56.5,690,1,Budget-Conscious Customers
+285,Male,26,25040,67,Entrepreneur,1.0,1,Single,Electronics,3.5,10,6,1,58.6,696,1,Budget-Conscious Customers
+291,Female,27,27711,70,Retired,3.0,1,Married,Home & Living,2.3,9,3,2,60.4,644,1,Budget-Conscious Customers
+296,Male,37,37318,82,Student,12.0,1,Divorced,Travel,3.7,9,26,2,57.9,666,1,Budget-Conscious Customers
+297,Female,39,25874,44,Student,15.0,1,Married,Books,1.6,10,12,3,24.1,656,1,Budget-Conscious Customers
+79,Male,35,28870,71,Retired,13.0,1,Single,Travel,4.3,8,5,2,55.6,593,1,Budget-Conscious Customers
+86,Male,28,30754,79,Artist,9.0,2,Married,Fashion,2.3,10,2,2,54.6,715,1,Budget-Conscious Customers
+90,Male,33,26037,89,Student,12.0,1,Single,Groceries,4.1,8,12,2,47.7,645,1,Budget-Conscious Customers
+765,Male,26,27992,83,Homemaker,0.0,1,Single,Groceries,4.6,12,4,1,43.2,690,1,Budget-Conscious Customers
+766,Female,27,26203,68,Engineer,7.0,1,Single,Travel,2.1,7,5,2,48.7,686,1,Budget-Conscious Customers
+525,Female,22,28564,66,Student,0.0,1,Single,Electronics,1.9,11,8,2,70.9,716,1,Budget-Conscious Customers
+490,Female,22,35121,96,Student,1.0,1,Single,Travel,3.5,13,24,1,65.7,654,1,Budget-Conscious Customers
+492,Female,23,35519,97,Lawyer,0.0,1,Single,Sports,0.6,10,16,1,43.2,664,1,Budget-Conscious Customers
+499,Male,26,24306,77,Retired,5.0,1,Married,Groceries,3.9,10,7,1,59.7,633,1,Budget-Conscious Customers
+703,Female,35,21365,67,Executive,15.0,1,Married,Home & Living,0.9,10,3,1,48.5,682,1,Budget-Conscious Customers
+305,Male,22,30047,87,Artist,0.0,2,Single,Beauty,3.7,12,1,1,55.2,630,1,Budget-Conscious Customers
+313,Male,37,21887,64,Retired,12.0,2,Single,Electronics,4.6,10,3,2,67.0,632,1,Budget-Conscious Customers
+314,Male,26,14130,63,Artist,4.0,1,Single,Sports,5.6,9,37,3,59.6,617,1,Budget-Conscious Customers
+351,Male,22,35527,87,Executive,2.0,1,Married,Electronics,4.8,9,7,3,56.0,684,1,Budget-Conscious Customers
+316,Male,30,62657,73,Entrepreneur,4.0,2,Single,Fashion,3.3,7,58,3,38.4,660,1,Budget-Conscious Customers
+317,Female,30,33397,75,Homemaker,10.0,1,Married,Travel,4.4,11,6,2,41.9,644,1,Budget-Conscious Customers
+505,Male,25,27361,89,Homemaker,5.0,1,Married,Beauty,4.7,11,8,2,63.4,694,1,Budget-Conscious Customers
+642,Female,31,35725,69,Student,17.0,1,Married,Home & Living,3.5,12,3,2,61.5,620,1,Budget-Conscious Customers
+643,Male,24,29975,72,Lawyer,3.0,2,Single,Fashion,0.0,9,38,1,38.5,718,1,Budget-Conscious Customers
+644,Male,19,25471,84,Doctor,0.0,1,Married,Home & Living,0.0,10,32,1,55.7,652,1,Budget-Conscious Customers
+653,Male,26,28284,99,Retired,4.0,1,Single,Sports,5.4,13,6,2,66.4,664,1,Budget-Conscious Customers
+481,Female,22,31570,88,Student,6.0,2,Single,Groceries,5.7,9,16,1,53.7,647,1,Budget-Conscious Customers
+760,Male,32,22903,66,Engineer,5.0,1,Married,Fashion,0.1,10,2,1,49.6,662,1,Budget-Conscious Customers
+761,Male,18,31384,82,Student,0.0,2,Married,Groceries,2.1,8,7,3,48.7,688,1,Budget-Conscious Customers
+318,Female,18,23470,68,Entrepreneur,5.0,1,Married,Fashion,2.5,9,27,1,61.1,660,1,Budget-Conscious Customers
+320,Female,18,23835,75,Artist,17.0,2,Married,Beauty,0.6,11,27,1,60.8,648,1,Budget-Conscious Customers
+321,Female,26,33277,73,Artist,0.0,1,Married,Fashion,0.0,11,1,1,45.9,648,1,Budget-Conscious Customers
+323,Female,34,32196,86,Engineer,13.0,1,Single,Home & Living,1.3,12,35,2,43.6,666,1,Budget-Conscious Customers
+329,Female,40,23424,59,Artist,17.0,1,Single,Travel,7.1,9,7,1,57.4,695,1,Budget-Conscious Customers
+330,Female,18,24750,74,Entrepreneur,0.0,1,Single,Sports,4.5,9,11,2,49.6,685,1,Budget-Conscious Customers
+335,Female,29,30929,68,Doctor,5.0,1,Single,Books,2.3,5,34,2,58.5,667,1,Budget-Conscious Customers
+337,Male,18,32125,92,Homemaker,0.0,3,Married,Home & Living,7.7,11,44,3,50.6,614,1,Budget-Conscious Customers
+110,Male,28,31569,84,Lawyer,6.0,1,Divorced,Beauty,4.0,9,22,1,54.6,725,1,Budget-Conscious Customers
+117,Male,24,32115,84,Homemaker,4.0,3,Single,Fashion,4.4,6,15,1,54.9,671,1,Budget-Conscious Customers
+462,Female,18,34443,81,Homemaker,0.0,1,Single,Books,4.5,10,7,1,72.5,728,1,Budget-Conscious Customers
+463,Female,24,33411,94,Homemaker,1.0,1,Single,Home & Living,4.3,10,42,1,59.6,590,1,Budget-Conscious Customers
+464,Female,18,25994,70,Lawyer,1.0,2,Married,Sports,2.7,10,5,2,58.0,725,1,Budget-Conscious Customers
+466,Male,30,24398,85,Lawyer,3.0,1,Married,Groceries,0.7,9,39,1,54.3,690,1,Budget-Conscious Customers
+469,Female,18,28395,70,Student,1.0,2,Single,Books,2.9,11,43,1,45.1,612,1,Budget-Conscious Customers
+473,Male,18,31700,86,Student,0.0,1,Divorced,Home & Living,1.8,10,25,2,62.5,640,1,Budget-Conscious Customers
+345,Male,21,32449,74,Engineer,0.0,1,Single,Home & Living,3.5,5,6,1,45.4,719,1,Budget-Conscious Customers
+178,Male,18,40423,72,Teacher,0.0,1,Single,Electronics,2.2,7,22,1,58.0,753,1,Budget-Conscious Customers
+183,Female,30,27626,66,Engineer,4.0,1,Divorced,Groceries,6.5,12,53,1,54.3,703,1,Budget-Conscious Customers
+186,Female,35,28883,80,Executive,13.0,1,Married,Beauty,2.0,10,0,3,48.4,638,1,Budget-Conscious Customers
+188,Female,30,28858,72,Teacher,8.0,1,Single,Electronics,2.4,10,1,1,47.4,632,1,Budget-Conscious Customers
+131,Male,26,23675,67,Artist,6.0,1,Divorced,Travel,2.6,10,23,3,50.6,650,1,Budget-Conscious Customers
+641,Male,21,26677,77,Doctor,0.0,3,Single,Travel,2.0,10,6,2,60.8,649,1,Budget-Conscious Customers
+441,Female,20,30602,71,Homemaker,6.0,1,Single,Travel,3.1,11,18,2,78.6,655,1,Budget-Conscious Customers
+445,Female,21,33707,86,Retired,3.0,1,Married,Home & Living,2.2,9,3,2,59.1,669,1,Budget-Conscious Customers
+449,Male,42,35924,83,Engineer,12.0,1,Married,Books,2.9,16,5,1,57.4,655,1,Budget-Conscious Customers
+454,Male,25,19424,86,Executive,1.0,1,Married,Groceries,5.3,9,69,2,43.4,680,1,Budget-Conscious Customers
+456,Male,44,28900,76,Student,18.0,1,Married,Electronics,3.0,8,6,3,51.4,653,1,Budget-Conscious Customers
+105,Female,24,33096,72,Entrepreneur,1.0,3,Single,Books,3.4,7,1,1,56.7,643,1,Budget-Conscious Customers
+107,Male,31,29005,80,Teacher,11.0,2,Single,Beauty,6.0,7,74,3,56.2,723,1,Budget-Conscious Customers
+352,Male,18,26211,62,Engineer,0.0,1,Single,Travel,4.5,12,6,2,65.6,641,1,Budget-Conscious Customers
+353,Female,33,15959,81,Engineer,5.0,1,Married,Beauty,5.7,6,44,1,36.1,683,1,Budget-Conscious Customers
+354,Female,23,28499,84,Retired,0.0,1,Single,Books,3.3,12,19,1,56.9,671,1,Budget-Conscious Customers
+364,Male,43,23582,84,Doctor,20.0,1,Married,Beauty,5.2,11,21,1,42.7,691,1,Budget-Conscious Customers
+366,Male,37,25188,100,Executive,12.0,1,Married,Books,0.5,10,57,2,71.0,628,1,Budget-Conscious Customers
+367,Male,32,25383,75,Executive,8.0,1,Divorced,Sports,0.0,11,23,1,45.4,632,1,Budget-Conscious Customers
+677,Female,38,29245,74,Retired,14.0,2,Married,Sports,5.4,11,9,1,63.8,648,1,Budget-Conscious Customers
+683,Female,29,33153,80,Lawyer,8.0,1,Married,Books,0.5,11,26,3,55.8,630,1,Budget-Conscious Customers
+438,Male,18,31687,74,Retired,0.0,2,Married,Travel,4.8,10,4,1,57.5,652,1,Budget-Conscious Customers
+752,Male,23,27610,85,Executive,0.0,1,Single,Groceries,2.9,10,7,1,66.2,688,1,Budget-Conscious Customers
+150,Female,47,24900,77,Homemaker,29.0,1,Single,Electronics,3.3,9,10,2,65.3,700,1,Budget-Conscious Customers
+152,Female,24,35313,78,Retired,2.0,1,Married,Books,0.0,6,14,3,74.5,665,1,Budget-Conscious Customers
+154,Male,41,32247,77,Teacher,15.0,1,Divorced,Groceries,6.3,10,17,1,41.4,647,1,Budget-Conscious Customers
+416,Male,32,29510,74,Executive,8.0,1,Married,Electronics,4.6,9,56,1,53.3,707,1,Budget-Conscious Customers
+418,Male,22,28794,65,Executive,0.0,1,Divorced,Groceries,4.4,8,8,1,32.8,586,1,Budget-Conscious Customers
+420,Female,20,28269,86,Teacher,2.0,1,Single,Travel,7.1,8,0,2,45.5,671,1,Budget-Conscious Customers
+460,Male,39,23014,64,Lawyer,14.0,2,Married,Electronics,1.5,10,6,1,58.2,748,1,Budget-Conscious Customers
+685,Female,30,26718,78,Teacher,3.0,1,Married,Groceries,2.6,9,15,3,59.3,631,1,Budget-Conscious Customers
+156,Female,30,29186,74,Retired,11.0,1,Single,Fashion,0.2,8,14,3,47.7,623,1,Budget-Conscious Customers
+158,Female,20,26625,63,Homemaker,0.0,2,Divorced,Home & Living,0.7,8,9,1,52.9,575,1,Budget-Conscious Customers
+164,Male,32,41482,41,Lawyer,14.0,2,Divorced,Home & Living,3.0,5,11,1,33.5,623,1,Budget-Conscious Customers
+166,Female,29,34087,70,Engineer,8.0,1,Divorced,Books,3.1,8,4,1,45.0,642,1,Budget-Conscious Customers
+168,Male,29,24974,76,Engineer,19.0,1,Single,Sports,0.9,12,23,2,58.1,612,1,Budget-Conscious Customers
+169,Female,23,24585,62,Doctor,2.0,2,Married,Books,3.6,10,47,1,51.7,627,1,Budget-Conscious Customers
+406,Female,24,29608,85,Artist,0.0,1,Married,Electronics,2.1,12,34,1,58.2,744,1,Budget-Conscious Customers
+412,Female,21,35523,73,Doctor,0.0,2,Single,Books,2.2,5,11,2,65.8,605,1,Budget-Conscious Customers
+135,Male,20,36608,71,Homemaker,0.0,1,Divorced,Beauty,0.0,8,10,1,62.3,663,1,Budget-Conscious Customers
+138,Male,18,23921,81,Engineer,0.0,1,Married,Beauty,0.0,5,10,3,53.5,593,1,Budget-Conscious Customers
+146,Female,35,33252,78,Doctor,14.0,1,Married,Travel,2.9,8,18,1,67.4,653,1,Budget-Conscious Customers
+173,Male,18,29556,81,Doctor,4.0,1,Single,Travel,2.3,6,29,2,62.3,633,1,Budget-Conscious Customers
+414,Female,21,33645,49,Artist,0.0,3,Married,Sports,1.0,1,4,1,34.8,611,1,Budget-Conscious Customers
+378,Male,18,21640,79,Engineer,1.0,1,Married,Electronics,2.7,8,18,1,51.3,708,1,Budget-Conscious Customers
+379,Male,18,24168,85,Retired,5.0,1,Married,Beauty,3.3,10,14,1,54.5,707,1,Budget-Conscious Customers
+383,Male,30,27768,73,Lawyer,10.0,1,Married,Groceries,4.0,10,7,1,63.2,619,1,Budget-Conscious Customers
+387,Female,26,30113,80,Student,7.0,1,Married,Electronics,0.8,10,8,1,44.9,684,1,Budget-Conscious Customers
+398,Male,22,27191,76,Engineer,0.0,3,Single,Sports,2.4,9,12,1,60.1,709,1,Budget-Conscious Customers
+403,Male,18,26080,71,Artist,0.0,1,Divorced,Home & Living,0.0,14,3,1,61.6,632,1,Budget-Conscious Customers
+39,Female,18,25764,69,Artist,2.0,1,Single,Electronics,7.5,11,10,1,45.6,686,1,Budget-Conscious Customers
+41,Female,28,33706,74,Homemaker,5.0,1,Single,Fashion,1.8,6,103,3,75.2,733,1,Budget-Conscious Customers
+12,Female,28,26144,83,Executive,9.0,1,Married,Home & Living,0.0,7,14,2,42.0,619,1,Budget-Conscious Customers
+16,Female,29,30407,79,Engineer,12.0,2,Married,Books,6.5,9,1,1,49.8,655,1,Budget-Conscious Customers
+785,Female,32,28894,74,Engineer,11.0,2,Single,Home & Living,2.9,9,3,2,52.0,654,1,Budget-Conscious Customers
+786,Male,30,28179,78,Teacher,3.0,1,Married,Books,3.0,12,53,2,32.9,622,1,Budget-Conscious Customers
+790,Female,29,25583,92,Teacher,4.0,2,Single,Home & Living,5.1,10,11,1,54.8,647,1,Budget-Conscious Customers
+620,Female,23,30113,68,Student,4.0,1,Married,Electronics,2.7,10,3,2,47.0,702,1,Budget-Conscious Customers
+623,Male,22,24809,86,Retired,1.0,1,Single,Beauty,3.7,11,19,1,52.8,689,1,Budget-Conscious Customers
+2,Female,37,31914,89,Homemaker,15.0,2,Divorced,Fashion,1.8,12,7,1,50.1,686,1,Budget-Conscious Customers
+6,Male,34,30213,94,Artist,11.0,1,Single,Travel,1.3,11,5,1,57.9,582,1,Budget-Conscious Customers
+7,Male,29,32290,63,Engineer,7.0,1,Single,Groceries,3.2,10,86,2,34.0,721,1,Budget-Conscious Customers
+60,Female,35,24273,77,Retired,11.0,2,Married,Sports,4.5,10,18,3,61.6,728,1,Budget-Conscious Customers
+19,Female,28,30612,71,Engineer,6.0,1,Single,Fashion,0.0,8,47,1,43.3,677,1,Budget-Conscious Customers
+28,Female,20,44753,48,Student,4.0,2,Married,Fashion,4.3,2,7,1,6.5,749,2,Young High-Spending Customers
+26,Male,34,81508,80,Retired,9.0,5,Married,Travel,1.4,7,2,1,10.5,729,2,Young High-Spending Customers
+24,Female,36,40350,46,Artist,12.0,3,Single,Sports,1.2,8,18,2,30.8,727,2,Young High-Spending Customers
+20,Female,38,73652,78,Student,19.0,3,Married,Groceries,2.3,8,1,2,1.6,671,2,Young High-Spending Customers
+5,Female,32,67215,83,Homemaker,9.0,3,Married,Home & Living,1.5,10,62,2,10.8,666,2,Young High-Spending Customers
+4,Male,37,82276,93,Artist,14.0,3,Single,Electronics,3.4,7,50,2,15.5,663,2,Young High-Spending Customers
+3,Female,33,76710,68,Teacher,12.0,2,Single,Groceries,5.1,11,2,2,1.1,729,2,Young High-Spending Customers
+1,Male,48,95857,78,Homemaker,30.0,2,Single,Home & Living,0.0,14,46,3,13.7,689,2,Young High-Spending Customers
+621,Female,23,82341,75,Entrepreneur,0.0,4,Married,Home & Living,1.5,9,6,2,0.9,642,2,Young High-Spending Customers
+221,Male,28,51038,65,Artist,4.0,3,Married,Electronics,1.1,4,10,1,17.7,713,2,Young High-Spending Customers
+220,Female,37,88901,96,Student,21.0,2,Single,Beauty,1.0,12,2,1,21.2,744,2,Young High-Spending Customers
+219,Female,33,79527,83,Student,15.0,2,Divorced,Home & Living,0.4,10,7,1,11.9,645,2,Young High-Spending Customers
+794,Male,40,51101,55,Executive,19.0,1,Married,Groceries,6.0,9,9,2,17.5,652,2,Young High-Spending Customers
+793,Female,31,60056,44,Homemaker,12.0,3,Single,Books,0.1,5,15,1,6.0,716,2,Young High-Spending Customers
+791,Female,33,59225,80,Student,9.0,1,Married,Electronics,2.9,9,40,1,0.0,670,2,Young High-Spending Customers
+15,Male,37,73370,83,Artist,12.0,4,Single,Beauty,3.7,7,0,1,2.6,697,2,Young High-Spending Customers
+13,Male,32,48154,51,Entrepreneur,10.0,2,Married,Groceries,4.3,11,17,1,24.2,644,2,Young High-Spending Customers
+40,Female,55,70629,91,Lawyer,35.0,4,Single,Groceries,4.3,7,16,1,19.1,758,2,Young High-Spending Customers
+400,Female,41,108957,96,Engineer,13.0,5,Single,Electronics,3.0,10,16,3,14.6,706,2,Young High-Spending Customers
+659,Male,40,48827,57,Executive,14.0,5,Single,Travel,0.0,7,49,1,30.9,641,2,Young High-Spending Customers
+393,Male,34,90868,89,Doctor,10.0,4,Married,Fashion,2.7,6,3,2,2.3,685,2,Young High-Spending Customers
+391,Male,37,61286,52,Artist,9.0,2,Married,Sports,5.9,4,0,1,2.0,657,2,Young High-Spending Customers
+388,Male,38,58301,49,Lawyer,15.0,2,Divorced,Groceries,1.6,7,8,2,20.4,707,2,Young High-Spending Customers
+377,Male,28,64081,72,Retired,6.0,2,Single,Electronics,3.1,10,4,3,0.0,635,2,Young High-Spending Customers
+172,Female,18,66535,45,Entrepreneur,3.0,5,Single,Beauty,7.6,4,22,1,35.8,737,2,Young High-Spending Customers
+170,Female,18,100789,77,Student,2.0,5,Single,Fashion,5.1,9,37,1,11.0,757,2,Young High-Spending Customers
+148,Female,39,107808,89,Entrepreneur,17.0,3,Single,Travel,0.6,11,2,1,19.7,755,2,Young High-Spending Customers
+147,Female,46,51338,75,Executive,24.0,1,Single,Home & Living,6.3,7,2,3,30.9,757,2,Young High-Spending Customers
+145,Male,47,57986,51,Artist,23.0,3,Divorced,Fashion,1.7,5,3,2,22.1,720,2,Young High-Spending Customers
+142,Female,55,82763,97,Student,33.0,1,Married,Home & Living,5.0,6,22,2,1.6,671,2,Young High-Spending Customers
+140,Female,30,75534,81,Teacher,9.0,3,Single,Sports,2.6,7,113,2,6.5,697,2,Young High-Spending Customers
+139,Male,24,54092,46,Artist,1.0,1,Single,Home & Living,6.2,6,4,1,28.7,716,2,Young High-Spending Customers
+174,Female,44,78888,91,Engineer,20.0,3,Single,Home & Living,2.0,8,16,1,7.1,619,2,Young High-Spending Customers
+409,Female,33,80043,78,Executive,6.0,5,Single,Beauty,3.4,11,17,2,13.8,705,2,Young High-Spending Customers
+408,Male,32,39935,46,Retired,15.0,5,Married,Books,4.0,7,1,1,20.8,713,2,Young High-Spending Customers
+407,Male,29,99307,74,Entrepreneur,12.0,4,Single,Books,7.5,9,7,2,0.2,744,2,Young High-Spending Customers
+404,Male,46,48763,62,Doctor,19.0,3,Single,Beauty,3.6,7,68,2,32.6,688,2,Young High-Spending Customers
+165,Female,33,86086,83,Lawyer,17.0,6,Married,Sports,3.5,7,14,2,11.4,723,2,Young High-Spending Customers
+163,Male,35,81799,85,Teacher,16.0,2,Divorced,Groceries,1.1,9,5,2,2.6,662,2,Young High-Spending Customers
+159,Female,24,74868,88,Entrepreneur,0.0,3,Married,Books,4.4,8,15,1,27.2,670,2,Young High-Spending Customers
+370,Female,29,50908,48,Retired,10.0,1,Single,Electronics,5.3,2,51,3,25.7,614,2,Young High-Spending Customers
+369,Male,32,55671,53,Lawyer,10.0,1,Married,Fashion,6.2,3,13,1,19.8,690,2,Young High-Spending Customers
+688,Male,49,102497,76,Doctor,26.0,2,Single,Electronics,8.4,9,50,2,0.0,666,2,Young High-Spending Customers
+687,Female,26,79078,73,Homemaker,6.0,2,Single,Sports,1.0,7,13,2,0.0,673,2,Young High-Spending Customers
+686,Male,32,82404,82,Homemaker,14.0,4,Single,Groceries,1.7,12,12,1,8.5,646,2,Young High-Spending Customers
+684,Male,23,29714,56,Artist,3.0,2,Married,Books,4.9,0,4,1,18.1,651,2,Young High-Spending Customers
+661,Female,37,50232,34,Entrepreneur,7.0,2,Married,Books,6.9,6,12,1,33.1,646,2,Young High-Spending Customers
+430,Male,43,104339,83,Homemaker,16.0,2,Married,Electronics,1.3,11,34,2,22.0,698,2,Young High-Spending Customers
+429,Female,41,78717,85,Entrepreneur,22.0,4,Married,Home & Living,4.4,8,25,1,3.2,692,2,Young High-Spending Customers
+428,Female,25,84368,73,Retired,6.0,4,Married,Electronics,3.7,9,36,2,19.6,648,2,Young High-Spending Customers
+427,Female,27,54229,47,Artist,12.0,1,Single,Beauty,2.9,7,5,2,16.1,704,2,Young High-Spending Customers
+421,Female,35,139704,52,Doctor,13.0,3,Single,Home & Living,4.7,8,41,2,8.5,663,2,Young High-Spending Customers
+415,Male,46,105271,97,Homemaker,23.0,2,Single,Electronics,0.0,9,67,2,10.9,779,2,Young High-Spending Customers
+153,Male,33,52336,45,Engineer,11.0,1,Married,Home & Living,4.5,2,27,3,22.6,767,2,Young High-Spending Customers
+149,Male,36,70943,78,Teacher,11.0,4,Married,Books,4.4,5,17,1,16.6,726,2,Young High-Spending Customers
+751,Female,34,47542,46,Artist,13.0,4,Single,Fashion,3.5,4,40,1,5.2,683,2,Young High-Spending Customers
+747,Female,36,57967,43,Student,14.0,2,Married,Fashion,2.7,3,40,2,42.8,678,2,Young High-Spending Customers
+746,Male,29,90322,73,Homemaker,5.0,3,Single,Books,3.9,6,9,3,19.4,680,2,Young High-Spending Customers
+745,Female,34,93865,68,Executive,17.0,2,Single,Books,2.5,6,1,1,10.1,596,2,Young High-Spending Customers
+744,Female,34,77418,100,Homemaker,17.0,2,Married,Home & Living,2.9,10,38,1,12.2,619,2,Young High-Spending Customers
+742,Male,30,50924,42,Artist,9.0,2,Single,Beauty,1.1,7,26,2,19.2,719,2,Young High-Spending Customers
+740,Female,33,38394,42,Lawyer,6.0,2,Single,Travel,2.6,5,39,1,8.0,670,2,Young High-Spending Customers
+437,Male,44,100114,95,Retired,23.0,2,Single,Home & Living,2.2,10,8,2,26.4,726,2,Young High-Spending Customers
+435,Male,30,49042,53,Engineer,5.0,2,Single,Home & Living,4.6,4,3,1,26.3,763,2,Young High-Spending Customers
+672,Male,28,68561,82,Artist,3.0,2,Divorced,Fashion,0.0,6,12,2,16.1,764,2,Young High-Spending Customers
+671,Male,27,74094,76,Doctor,5.0,3,Married,Books,2.4,8,29,1,17.0,761,2,Young High-Spending Customers
+670,Male,37,86348,88,Teacher,15.0,5,Married,Groceries,3.8,6,11,1,14.1,638,2,Young High-Spending Customers
+669,Male,30,72877,91,Artist,1.0,5,Married,Books,2.4,6,71,3,8.4,701,2,Young High-Spending Customers
+662,Female,39,44857,49,Engineer,19.0,2,Married,Travel,3.7,6,5,2,29.0,727,2,Young High-Spending Customers
+675,Male,39,56280,58,Homemaker,17.0,1,Married,Sports,2.8,6,67,2,26.2,696,2,Young High-Spending Customers
+395,Male,31,99195,84,Artist,12.0,4,Married,Travel,1.3,10,12,2,29.0,621,2,Young High-Spending Customers
+368,Male,39,77330,83,Doctor,16.0,2,Divorced,Books,2.5,8,6,1,0.0,644,2,Young High-Spending Customers
+360,Female,44,88230,93,Student,27.0,4,Single,Home & Living,0.6,7,0,3,15.4,633,2,Young High-Spending Customers
+372,Female,32,99721,81,Doctor,3.0,3,Single,Sports,1.6,7,1,2,0.3,662,2,Young High-Spending Customers
+191,Male,35,82198,65,Artist,21.0,4,Single,Groceries,4.1,7,20,1,20.8,707,2,Young High-Spending Customers
+190,Female,45,84428,94,Entrepreneur,21.0,5,Single,Groceries,2.4,6,7,3,4.5,701,2,Young High-Spending Customers
+189,Female,37,49603,54,Engineer,12.0,3,Married,Sports,2.3,6,9,1,31.3,672,2,Young High-Spending Customers
+455,Female,42,83849,79,Entrepreneur,19.0,2,Divorced,Electronics,2.4,13,15,2,2.0,706,2,Young High-Spending Customers
+450,Female,18,80693,84,Engineer,0.0,2,Single,Sports,2.8,5,64,1,6.5,699,2,Young High-Spending Customers
+446,Male,34,84122,79,Teacher,12.0,3,Married,Beauty,2.3,13,13,1,17.3,720,2,Young High-Spending Customers
+443,Female,29,43270,51,Artist,11.0,3,Single,Sports,6.6,4,45,1,28.1,715,2,Young High-Spending Customers
+442,Female,43,85141,93,Artist,23.0,4,Married,Home & Living,3.5,9,6,1,29.4,688,2,Young High-Spending Customers
+133,Female,36,44867,42,Entrepreneur,14.0,3,Married,Books,3.9,4,5,1,26.7,690,2,Young High-Spending Customers
+129,Male,31,44287,59,Student,2.0,3,Single,Sports,0.5,6,15,1,21.2,652,2,Young High-Spending Customers
+187,Female,39,77611,77,Executive,15.0,2,Single,Electronics,1.1,9,30,1,3.9,651,2,Young High-Spending Customers
+184,Female,39,56904,64,Homemaker,14.0,4,Single,Travel,2.8,8,6,1,29.4,679,2,Young High-Spending Customers
+182,Male,50,56713,58,Retired,21.0,1,Single,Electronics,4.2,7,21,2,27.6,722,2,Young High-Spending Customers
+180,Male,37,44198,48,Teacher,9.0,3,Divorced,Beauty,6.0,5,3,1,24.8,717,2,Young High-Spending Customers
+177,Male,30,76994,83,Retired,8.0,2,Married,Beauty,2.1,8,2,3,0.0,712,2,Young High-Spending Customers
+175,Male,23,97107,91,Engineer,0.0,4,Divorced,Books,4.8,8,14,1,20.6,718,2,Young High-Spending Customers
+350,Female,28,77893,84,Doctor,1.0,4,Married,Travel,5.3,10,14,1,36.9,668,2,Young High-Spending Customers
+348,Male,42,92580,36,Homemaker,21.0,3,Single,Electronics,3.0,6,97,2,28.7,749,2,Young High-Spending Customers
+344,Female,46,84751,100,Homemaker,23.0,2,Married,Home & Living,4.0,11,31,1,8.4,662,2,Young High-Spending Customers
+343,Female,37,105233,80,Artist,12.0,2,Single,Home & Living,3.9,7,34,2,0.0,730,2,Young High-Spending Customers
+340,Male,33,84383,83,Artist,10.0,5,Married,Sports,2.6,8,55,2,0.0,655,2,Young High-Spending Customers
+475,Female,38,44593,68,Doctor,13.0,2,Single,Travel,2.1,4,62,1,37.7,690,2,Young High-Spending Customers
+474,Male,28,39064,36,Artist,5.0,3,Married,Beauty,3.0,3,10,2,22.0,671,2,Young High-Spending Customers
+472,Female,35,73251,79,Teacher,15.0,2,Single,Books,3.6,4,0,1,4.4,690,2,Young High-Spending Customers
+465,Male,34,96139,78,Teacher,11.0,4,Divorced,Home & Living,2.5,7,5,3,17.8,759,2,Young High-Spending Customers
+128,Female,38,43407,56,Homemaker,9.0,1,Married,Books,5.7,5,48,1,31.7,741,2,Young High-Spending Customers
+116,Female,43,107053,72,Executive,24.0,4,Single,Sports,1.9,10,67,2,20.1,787,2,Young High-Spending Customers
+112,Female,39,102789,66,Engineer,19.0,3,Married,Home & Living,1.2,4,4,3,5.5,716,2,Young High-Spending Customers
+108,Female,35,74028,66,Student,12.0,2,Single,Home & Living,2.9,9,94,1,2.0,651,2,Young High-Spending Customers
+339,Male,45,73455,92,Retired,23.0,4,Single,Travel,2.6,7,10,1,12.4,745,2,Young High-Spending Customers
+333,Female,34,48477,66,Engineer,16.0,2,Married,Electronics,5.3,4,35,1,22.4,674,2,Young High-Spending Customers
+328,Female,26,82359,91,Executive,4.0,6,Married,Home & Living,3.2,7,0,1,5.3,670,2,Young High-Spending Customers
+327,Male,36,42766,55,Teacher,11.0,3,Married,Electronics,0.9,7,46,3,23.5,699,2,Young High-Spending Customers
+326,Female,42,76289,81,Doctor,22.0,3,Single,Books,1.3,12,4,3,12.0,716,2,Young High-Spending Customers
+324,Male,40,88316,72,Lawyer,16.0,5,Married,Beauty,2.1,11,35,3,12.6,702,2,Young High-Spending Customers
+322,Female,28,76200,90,Retired,4.0,2,Married,Travel,1.6,4,3,2,16.8,762,2,Young High-Spending Customers
+319,Female,36,96816,92,Lawyer,6.0,3,Single,Home & Living,1.0,9,10,1,0.7,779,2,Young High-Spending Customers
+763,Male,34,68111,99,Executive,16.0,3,Married,Books,0.0,9,37,2,1.2,673,2,Young High-Spending Customers
+739,Male,25,56326,44,Artist,6.0,3,Married,Fashion,5.7,4,29,2,0.0,663,2,Young High-Spending Customers
+482,Male,43,77310,88,Teacher,21.0,1,Single,Electronics,6.1,9,34,1,26.3,760,2,Young High-Spending Customers
+654,Female,35,49515,56,Executive,12.0,2,Married,Home & Living,3.7,5,10,3,0.0,705,2,Young High-Spending Customers
+652,Male,37,44146,42,Artist,16.0,3,Married,Groceries,3.4,2,8,1,18.2,741,2,Young High-Spending Customers
+651,Female,41,60745,74,Homemaker,16.0,3,Married,Groceries,3.3,3,1,1,2.7,671,2,Young High-Spending Customers
+649,Female,30,50155,58,Retired,3.0,5,Single,Beauty,0.8,5,4,1,18.6,671,2,Young High-Spending Customers
+648,Female,34,78164,73,Entrepreneur,11.0,2,Single,Groceries,4.8,5,45,2,2.2,723,2,Young High-Spending Customers
+312,Female,42,100199,77,Doctor,21.0,4,Married,Groceries,2.9,7,48,1,12.3,677,2,Young High-Spending Customers
+311,Female,32,72384,48,Teacher,6.0,2,Married,Fashion,2.2,5,40,3,7.6,626,2,Young High-Spending Customers
+310,Female,33,93956,87,Lawyer,7.0,3,Married,Sports,3.5,7,7,1,12.9,673,2,Young High-Spending Customers
+306,Male,24,85856,68,Student,0.0,3,Married,Fashion,3.3,8,4,1,2.2,682,2,Young High-Spending Customers
+702,Male,29,75878,79,Engineer,7.0,2,Single,Beauty,0.0,7,0,3,18.5,633,2,Young High-Spending Customers
+700,Female,38,86406,91,Entrepreneur,17.0,3,Single,Groceries,5.1,9,7,3,2.0,627,2,Young High-Spending Customers
+698,Female,29,78306,93,Entrepreneur,5.0,3,Married,Books,0.0,7,33,1,3.2,654,2,Young High-Spending Customers
+695,Male,38,74706,74,Teacher,13.0,4,Divorced,Groceries,0.0,6,11,2,8.8,697,2,Young High-Spending Customers
+692,Female,42,83579,89,Homemaker,17.0,3,Single,Books,4.0,10,43,1,29.1,714,2,Young High-Spending Customers
+498,Male,44,87010,82,Lawyer,22.0,5,Divorced,Fashion,3.4,6,28,2,22.9,642,2,Young High-Spending Customers
+496,Male,44,71073,74,Artist,26.0,5,Divorced,Home & Living,1.7,8,12,2,0.0,637,2,Young High-Spending Customers
+493,Male,31,35341,62,Teacher,10.0,3,Married,Home & Living,3.2,4,43,1,26.2,628,2,Young High-Spending Customers
+488,Male,35,69381,82,Engineer,8.0,5,Married,Sports,1.7,13,2,1,12.7,707,2,Young High-Spending Customers
+486,Male,40,96434,77,Retired,21.0,5,Married,Books,2.7,8,2,3,8.3,628,2,Young High-Spending Customers
+484,Female,35,53140,61,Retired,8.0,1,Single,Beauty,5.8,2,5,1,36.9,720,2,Young High-Spending Customers
+102,Male,35,72923,81,Retired,13.0,7,Single,Home & Living,1.3,8,18,3,22.5,666,2,Young High-Spending Customers
+101,Female,28,66409,70,Lawyer,6.0,2,Married,Fashion,5.5,8,2,1,14.8,708,2,Young High-Spending Customers
+100,Female,39,53079,56,Entrepreneur,16.0,3,Single,Home & Living,4.7,4,2,1,28.2,648,2,Young High-Spending Customers
+99,Male,39,76799,88,Entrepreneur,18.0,1,Married,Beauty,1.9,4,30,1,27.8,600,2,Young High-Spending Customers
+88,Male,40,84152,88,Doctor,17.0,3,Married,Beauty,3.3,6,17,1,21.0,737,2,Young High-Spending Customers
+87,Male,18,83412,87,Executive,3.0,6,Single,Fashion,3.6,10,13,2,21.1,770,2,Young High-Spending Customers
+83,Female,32,96239,78,Student,7.0,3,Married,Travel,7.9,11,41,1,8.0,738,2,Young High-Spending Customers
+80,Male,27,89767,72,Entrepreneur,0.0,3,Married,Fashion,2.7,11,39,1,12.2,691,2,Young High-Spending Customers
+522,Male,32,56383,51,Student,9.0,3,Married,Travel,5.4,6,34,3,41.3,713,2,Young High-Spending Customers
+521,Male,43,80647,79,Executive,20.0,4,Single,Books,2.2,9,5,2,15.9,673,2,Young High-Spending Customers
+516,Male,35,75454,77,Entrepreneur,10.0,4,Married,Home & Living,1.4,4,56,2,11.6,730,2,Young High-Spending Customers
+515,Male,39,84212,71,Teacher,15.0,3,Single,Fashion,4.3,7,4,1,11.0,733,2,Young High-Spending Customers
+513,Female,28,82272,93,Retired,4.0,4,Divorced,Books,2.0,13,7,2,6.4,684,2,Young High-Spending Customers
+512,Female,53,66354,85,Lawyer,38.0,5,Married,Sports,1.9,8,53,1,8.0,665,2,Young High-Spending Customers
+511,Female,49,76123,88,Executive,27.0,2,Married,Sports,0.0,10,0,1,0.0,747,2,Young High-Spending Customers
+627,Female,41,49984,52,Doctor,17.0,2,Single,Beauty,3.6,5,21,1,22.5,743,2,Young High-Spending Customers
+500,Female,35,49397,55,Homemaker,15.0,3,Divorced,Travel,5.0,7,34,3,24.2,701,2,Young High-Spending Customers
+332,Female,37,83604,78,Entrepreneur,13.0,3,Single,Fashion,2.9,12,14,2,19.1,664,2,Young High-Spending Customers
+304,Female,35,54079,57,Artist,11.0,2,Single,Travel,5.5,5,40,3,34.0,666,2,Young High-Spending Customers
+300,Male,18,93560,75,Teacher,0.0,4,Married,Sports,4.6,7,13,2,3.7,668,2,Young High-Spending Customers
+293,Male,39,90373,64,Executive,19.0,7,Married,Books,3.8,8,18,1,13.7,755,2,Young High-Spending Customers
+290,Female,26,100178,99,Retired,1.0,1,Married,Sports,4.6,11,9,1,0.0,643,2,Young High-Spending Customers
+286,Male,42,76433,100,Artist,18.0,5,Single,Electronics,4.0,6,1,2,7.1,657,2,Young High-Spending Customers
+315,Male,39,68541,85,Retired,10.0,3,Married,Electronics,3.3,13,9,2,14.1,703,2,Young High-Spending Customers
+203,Female,43,87683,69,Executive,18.0,5,Married,Fashion,5.7,10,8,2,9.0,648,2,Young High-Spending Customers
+199,Male,36,63279,45,Student,14.0,2,Single,Electronics,2.0,3,7,3,21.2,710,2,Young High-Spending Customers
+544,Female,35,76146,78,Teacher,13.0,3,Single,Sports,0.2,7,2,3,1.5,701,2,Young High-Spending Customers
+539,Female,51,89731,99,Entrepreneur,27.0,3,Single,Sports,3.1,9,29,1,9.7,606,2,Young High-Spending Customers
+533,Female,40,46923,42,Student,14.0,3,Divorced,Beauty,0.0,7,35,1,13.0,707,2,Young High-Spending Customers
+531,Male,19,79981,81,Homemaker,0.0,3,Married,Fashion,2.9,11,39,1,4.3,687,2,Young High-Spending Customers
+530,Male,34,72552,83,Teacher,13.0,2,Married,Books,4.3,7,30,1,18.2,672,2,Young High-Spending Customers
+528,Female,33,53456,64,Student,15.0,3,Single,Books,5.4,5,0,2,25.5,757,2,Young High-Spending Customers
+526,Male,35,62916,83,Teacher,13.0,3,Single,Beauty,6.7,6,14,2,8.4,635,2,Young High-Spending Customers
+552,Female,37,72366,51,Entrepreneur,9.0,4,Single,Beauty,10.3,5,35,2,22.9,638,2,Young High-Spending Customers
+755,Female,37,81505,73,Homemaker,13.0,2,Single,Home & Living,2.0,7,10,1,13.1,653,2,Young High-Spending Customers
+94,Female,31,81747,79,Engineer,10.0,2,Married,Books,3.3,8,19,3,11.4,738,2,Young High-Spending Customers
+550,Female,42,52537,57,Executive,19.0,4,Married,Beauty,3.0,7,34,1,21.9,684,2,Young High-Spending Customers
+639,Female,34,96328,91,Teacher,11.0,3,Married,Groceries,2.5,10,11,1,11.7,638,2,Young High-Spending Customers
+635,Female,36,75017,85,Entrepreneur,20.0,2,Divorced,Sports,2.8,8,23,2,19.4,684,2,Young High-Spending Customers
+633,Female,45,78534,84,Student,21.0,3,Single,Travel,2.4,8,1,1,18.8,704,2,Young High-Spending Customers
+631,Male,36,82632,64,Artist,16.0,4,Single,Sports,1.2,10,0,1,4.0,749,2,Young High-Spending Customers
+571,Male,37,83460,80,Lawyer,11.0,3,Married,Fashion,4.3,8,9,2,22.5,691,2,Young High-Spending Customers
+70,Female,25,96083,93,Teacher,0.0,2,Single,Books,5.9,4,12,2,9.7,704,2,Young High-Spending Customers
+67,Male,42,64366,55,Student,21.0,2,Married,Fashion,1.0,8,6,2,37.6,712,2,Young High-Spending Customers
+66,Female,23,76335,91,Artist,0.0,6,Married,Home & Living,0.7,6,3,2,0.0,648,2,Young High-Spending Customers
+61,Male,23,76574,77,Student,0.0,2,Single,Books,2.9,10,12,1,2.8,706,2,Young High-Spending Customers
+196,Male,35,66088,75,Doctor,13.0,5,Single,Home & Living,7.7,7,39,2,0.0,736,2,Young High-Spending Customers
+217,Female,38,72865,80,Executive,18.0,4,Divorced,Fashion,3.7,8,30,2,14.9,680,2,Young High-Spending Customers
+275,Male,40,71359,83,Artist,21.0,7,Married,Books,2.6,10,21,1,27.5,632,2,Young High-Spending Customers
+274,Male,36,70761,95,Homemaker,17.0,4,Married,Groceries,5.0,12,41,1,5.9,677,2,Young High-Spending Customers
+719,Female,26,55163,52,Engineer,9.0,1,Single,Books,3.3,0,22,3,33.8,719,2,Young High-Spending Customers
+711,Female,34,59529,70,Doctor,5.0,5,Single,Fashion,4.5,7,11,1,0.0,729,2,Young High-Spending Customers
+710,Female,30,104103,74,Teacher,7.0,3,Married,Sports,2.7,10,16,1,11.0,704,2,Young High-Spending Customers
+216,Female,56,95747,81,Engineer,31.0,2,Single,Fashion,2.2,8,3,1,10.0,649,2,Young High-Spending Customers
+213,Male,34,102959,83,Student,9.0,4,Divorced,Home & Living,4.0,7,31,2,19.0,707,2,Young High-Spending Customers
+578,Female,34,82385,58,Teacher,14.0,5,Divorced,Sports,5.0,5,14,3,32.4,628,2,Young High-Spending Customers
+577,Female,33,68843,64,Executive,11.0,2,Married,Books,5.6,3,5,1,39.0,760,2,Young High-Spending Customers
+573,Male,30,51537,54,Retired,3.0,4,Divorced,Travel,3.6,6,24,3,23.0,675,2,Young High-Spending Customers
+613,Male,27,84499,64,Teacher,6.0,2,Married,Travel,3.2,11,10,2,4.6,647,2,Young High-Spending Customers
+567,Female,47,57057,57,Teacher,23.0,2,Single,Travel,3.0,5,3,2,8.5,710,2,Young High-Spending Customers
+565,Female,32,93122,86,Retired,17.0,2,Married,Travel,5.0,9,3,1,10.5,595,2,Young High-Spending Customers
+563,Male,26,104422,90,Artist,6.0,2,Married,Books,0.4,8,4,1,13.0,616,2,Young High-Spending Customers
+559,Male,37,80923,81,Teacher,20.0,4,Married,Home & Living,1.1,10,23,2,11.6,760,2,Young High-Spending Customers
+558,Female,33,100148,85,Lawyer,15.0,3,Married,Fashion,0.0,12,22,3,18.7,704,2,Young High-Spending Customers
+557,Female,35,98213,77,Teacher,12.0,5,Married,Travel,5.4,7,6,3,11.0,647,2,Young High-Spending Customers
+211,Male,47,70356,71,Artist,29.0,4,Single,Electronics,1.2,8,39,1,12.0,687,2,Young High-Spending Customers
+736,Male,37,97963,96,Doctor,17.0,3,Married,Groceries,2.8,8,15,2,10.5,687,2,Young High-Spending Customers
+728,Female,34,86445,66,Retired,10.0,2,Married,Travel,1.4,8,18,1,10.9,697,2,Young High-Spending Customers
+727,Female,18,83397,80,Entrepreneur,6.0,3,Married,Groceries,6.2,8,27,1,9.0,694,2,Young High-Spending Customers
+726,Female,36,85634,100,Teacher,10.0,1,Married,Fashion,1.0,6,10,3,2.4,637,2,Young High-Spending Customers
+725,Female,38,60412,57,Engineer,16.0,2,Married,Groceries,3.9,7,7,1,34.3,636,2,Young High-Spending Customers
+271,Male,37,42473,42,Lawyer,10.0,3,Married,Electronics,0.0,5,7,2,35.0,715,2,Young High-Spending Customers
+268,Male,27,78591,81,Executive,3.0,3,Single,Sports,5.7,9,22,2,15.2,685,2,Young High-Spending Customers
+267,Male,38,65975,69,Student,19.0,3,Divorced,Sports,6.5,12,22,1,0.0,655,2,Young High-Spending Customers
+262,Female,37,58729,43,Artist,17.0,4,Single,Beauty,1.5,6,3,2,31.2,702,2,Young High-Spending Customers
+257,Male,35,90394,66,Engineer,16.0,2,Single,Beauty,3.7,7,6,1,13.6,676,2,Young High-Spending Customers
+51,Male,36,75064,70,Lawyer,13.0,3,Married,Travel,0.7,11,7,2,7.3,708,2,Young High-Spending Customers
+50,Female,48,86331,69,Artist,25.0,3,Single,Electronics,3.2,7,16,2,11.6,732,2,Young High-Spending Customers
+49,Female,30,86169,69,Executive,8.0,3,Married,Electronics,4.1,5,9,1,14.8,708,2,Young High-Spending Customers
+47,Male,40,87416,100,Engineer,22.0,4,Married,Beauty,0.1,8,3,1,0.0,728,2,Young High-Spending Customers
+45,Male,29,65589,92,Artist,8.0,4,Single,Books,2.5,11,6,1,14.0,654,2,Young High-Spending Customers
+44,Male,35,73321,94,Lawyer,16.0,5,Single,Sports,1.5,8,41,3,14.9,726,2,Young High-Spending Customers
+590,Female,36,51549,59,Entrepreneur,16.0,3,Married,Fashion,1.0,1,1,1,28.6,717,2,Young High-Spending Customers
+618,Male,35,56298,53,Engineer,12.0,3,Single,Beauty,2.3,6,1,3,11.8,665,2,Young High-Spending Customers
+615,Male,40,95071,89,Retired,17.0,4,Single,Beauty,5.1,4,5,3,21.6,688,2,Young High-Spending Customers
+610,Male,38,61113,39,Engineer,18.0,2,Single,Fashion,8.3,8,46,2,26.5,720,2,Young High-Spending Customers
+606,Male,25,88030,86,Teacher,0.0,5,Married,Books,3.4,10,67,2,11.1,806,2,Young High-Spending Customers
+604,Female,32,89358,80,Retired,12.0,3,Single,Books,0.2,7,6,3,11.3,723,2,Young High-Spending Customers
+603,Male,38,71631,22,Doctor,15.0,4,Divorced,Travel,3.3,6,34,2,18.8,629,2,Young High-Spending Customers
+9,Male,39,85712,65,Lawyer,11.0,2,Divorced,Travel,4.4,8,47,3,5.2,718,2,Young High-Spending Customers
+59,Female,41,53261,48,Lawyer,18.0,1,Married,Beauty,1.7,5,36,2,16.5,793,2,Young High-Spending Customers
+57,Female,40,67946,74,Engineer,18.0,4,Single,Travel,7.9,11,33,1,18.2,659,2,Young High-Spending Customers
+56,Male,39,84297,85,Retired,15.0,3,Married,Fashion,0.0,8,21,1,6.0,691,2,Young High-Spending Customers
+54,Female,32,85196,83,Artist,10.0,5,Single,Electronics,4.7,13,8,2,13.5,764,2,Young High-Spending Customers
+53,Female,42,35287,52,Doctor,17.0,4,Single,Books,4.6,6,34,2,13.3,707,2,Young High-Spending Customers
+253,Male,30,52486,44,Entrepreneur,13.0,2,Married,Books,4.4,6,4,1,24.9,582,2,Young High-Spending Customers
+252,Male,40,59152,88,Doctor,19.0,4,Single,Travel,0.0,9,3,1,6.0,665,2,Young High-Spending Customers
+243,Female,35,45386,57,Entrepreneur,11.0,3,Divorced,Books,3.6,4,3,3,31.1,676,2,Young High-Spending Customers
+238,Male,41,69930,71,Artist,21.0,3,Divorced,Home & Living,1.3,9,32,2,7.4,725,2,Young High-Spending Customers
+231,Female,29,102648,81,Teacher,9.0,5,Single,Beauty,3.7,7,32,1,17.8,757,2,Young High-Spending Customers
+229,Female,25,69243,96,Entrepreneur,10.0,4,Divorced,Beauty,6.3,10,4,2,14.9,695,2,Young High-Spending Customers
+225,Male,32,102737,53,Homemaker,6.0,5,Married,Beauty,2.4,5,32,3,20.2,685,2,Young High-Spending Customers
+771,Female,36,75394,83,Teacher,10.0,3,Single,Groceries,2.1,12,25,3,17.3,707,2,Young High-Spending Customers
+777,Female,40,49394,69,Doctor,23.0,4,Divorced,Electronics,1.3,7,100,2,22.2,625,2,Young High-Spending Customers
+799,Female,49,84143,4,Homemaker,27.0,5,Married,Travel,3.1,1,3,3,34.0,725,3,Low-Engagement Customers
+797,Male,39,70458,26,Retired,21.0,4,Single,Sports,6.0,2,7,1,33.0,730,3,Low-Engagement Customers
+792,Male,37,50421,58,Retired,11.0,7,Single,Electronics,5.0,0,29,1,0.5,704,3,Low-Engagement Customers
+788,Male,39,53617,40,Lawyer,20.0,3,Single,Sports,0.0,0,15,3,31.9,734,3,Low-Engagement Customers
+14,Female,58,82500,22,Homemaker,37.0,4,Single,Books,4.2,2,11,1,49.1,721,3,Low-Engagement Customers
+11,Male,49,80441,28,Engineer,29.0,5,Single,Sports,2.8,2,8,3,46.9,692,3,Low-Engagement Customers
+624,Female,60,85709,27,Entrepreneur,39.0,7,Married,Beauty,0.7,4,40,2,33.7,728,3,Low-Engagement Customers
+617,Female,52,81780,13,Student,17.0,6,Divorced,Books,5.0,2,24,2,28.6,600,3,Low-Engagement Customers
+616,Female,32,88112,9,Homemaker,8.0,5,Single,Groceries,3.0,0,27,2,38.1,708,3,Low-Engagement Customers
+614,Male,45,89656,10,Lawyer,23.0,4,Single,Travel,3.7,0,64,1,28.4,697,3,Low-Engagement Customers
+607,Male,47,101905,27,Lawyer,17.0,5,Married,Home & Living,5.2,0,6,1,44.6,719,3,Low-Engagement Customers
+605,Female,47,86499,40,Student,21.0,6,Divorced,Books,3.3,4,12,1,28.3,666,3,Low-Engagement Customers
+598,Male,41,92026,43,Entrepreneur,16.0,5,Divorced,Books,1.2,5,32,1,41.5,726,3,Low-Engagement Customers
+597,Male,47,90059,15,Lawyer,21.0,5,Single,Beauty,5.4,5,13,2,33.8,667,3,Low-Engagement Customers
+594,Male,43,54871,64,Retired,26.0,4,Divorced,Fashion,0.9,1,40,2,26.7,687,3,Low-Engagement Customers
+591,Male,56,65963,30,Teacher,29.0,5,Single,Beauty,3.1,2,15,1,39.3,638,3,Low-Engagement Customers
+588,Male,42,86373,21,Retired,17.0,5,Married,Books,1.0,0,13,1,36.9,751,3,Low-Engagement Customers
+582,Female,48,81390,19,Entrepreneur,25.0,6,Single,Sports,3.1,1,27,1,36.9,624,3,Low-Engagement Customers
+576,Female,55,74482,19,Artist,31.0,6,Married,Beauty,1.5,4,8,3,41.2,659,3,Low-Engagement Customers
+575,Female,62,93732,21,Lawyer,42.0,6,Single,Electronics,0.0,0,14,1,43.0,645,3,Low-Engagement Customers
+569,Female,38,72379,19,Doctor,17.0,6,Single,Home & Living,1.0,0,44,1,28.5,675,3,Low-Engagement Customers
+564,Male,64,51820,22,Executive,43.0,4,Single,Fashion,2.3,7,17,2,39.8,701,3,Low-Engagement Customers
+553,Male,46,82548,21,Artist,26.0,4,Married,Home & Living,5.7,3,11,1,31.1,680,3,Low-Engagement Customers
+549,Female,56,67208,28,Executive,34.0,6,Single,Travel,0.0,3,9,1,15.3,643,3,Low-Engagement Customers
+548,Female,38,73233,16,Lawyer,12.0,6,Married,Beauty,3.7,1,4,2,7.6,661,3,Low-Engagement Customers
+640,Female,57,68341,23,Retired,36.0,4,Single,Beauty,3.8,4,5,1,52.7,677,3,Low-Engagement Customers
+638,Male,41,101580,23,Student,18.0,6,Single,Fashion,2.6,5,26,2,42.9,728,3,Low-Engagement Customers
+630,Male,51,67994,18,Retired,25.0,5,Married,Travel,2.7,1,52,1,45.2,739,3,Low-Engagement Customers
+625,Female,41,76391,30,Entrepreneur,18.0,4,Single,Travel,3.7,2,18,3,38.2,689,3,Low-Engagement Customers
+541,Female,41,75455,24,Retired,17.0,6,Single,Sports,4.3,4,8,1,33.4,670,3,Low-Engagement Customers
+540,Female,47,79258,20,Executive,27.0,5,Married,Groceries,1.0,1,70,1,27.9,647,3,Low-Engagement Customers
+534,Male,39,90652,26,Retired,22.0,4,Married,Travel,0.0,1,1,1,27.8,730,3,Low-Engagement Customers
+529,Male,52,73335,41,Artist,23.0,6,Single,Books,2.2,0,19,2,15.9,733,3,Low-Engagement Customers
+527,Female,48,69194,17,Homemaker,25.0,7,Single,Travel,2.5,6,10,1,43.8,696,3,Low-Engagement Customers
+524,Male,40,102262,22,Homemaker,20.0,8,Single,Electronics,6.1,2,28,1,19.2,721,3,Low-Engagement Customers
+510,Male,50,90594,9,Retired,23.0,6,Single,Home & Living,4.2,1,19,2,20.1,799,3,Low-Engagement Customers
+507,Female,48,62326,23,Retired,23.0,6,Single,Electronics,4.9,4,2,1,32.0,668,3,Low-Engagement Customers
+506,Male,44,69929,20,Engineer,27.0,4,Single,Books,2.5,4,3,1,18.5,699,3,Low-Engagement Customers
+504,Female,52,77843,10,Artist,31.0,6,Single,Home & Living,4.5,3,18,3,23.6,673,3,Low-Engagement Customers
+503,Male,56,65915,23,Executive,31.0,6,Single,Groceries,1.0,5,34,1,33.3,624,3,Low-Engagement Customers
+501,Male,43,82545,26,Executive,18.0,5,Single,Groceries,0.0,3,31,2,38.6,665,3,Low-Engagement Customers
+497,Female,43,65262,44,Teacher,21.0,4,Single,Beauty,2.9,3,0,2,34.4,710,3,Low-Engagement Customers
+489,Male,63,82238,23,Entrepreneur,38.0,7,Single,Fashion,1.2,2,2,3,11.3,705,3,Low-Engagement Customers
+487,Male,39,81331,17,Teacher,14.0,6,Married,Travel,1.8,6,33,1,23.0,637,3,Low-Engagement Customers
+656,Male,42,65555,16,Executive,16.0,5,Single,Groceries,0.2,0,1,1,45.3,724,3,Low-Engagement Customers
+650,Female,48,71488,1,Teacher,26.0,3,Single,Beauty,3.5,2,6,1,29.5,662,3,Low-Engagement Customers
+480,Male,30,81375,27,Doctor,5.0,5,Single,Books,0.0,2,21,1,39.7,684,3,Low-Engagement Customers
+478,Male,48,93717,15,Student,23.0,4,Divorced,Travel,2.7,3,32,3,20.8,695,3,Low-Engagement Customers
+476,Male,51,81856,39,Entrepreneur,30.0,5,Single,Electronics,0.9,3,47,2,35.2,717,3,Low-Engagement Customers
+470,Male,56,53742,3,Retired,29.0,5,Single,Books,2.9,4,8,1,22.6,761,3,Low-Engagement Customers
+467,Male,36,150600,47,Student,11.0,7,Single,Groceries,2.4,2,5,3,15.9,706,3,Low-Engagement Customers
+459,Female,55,58658,66,Engineer,30.0,4,Single,Books,0.0,3,6,1,23.3,678,3,Low-Engagement Customers
+458,Female,52,68814,31,Doctor,24.0,4,Married,Sports,0.3,5,0,3,46.6,734,3,Low-Engagement Customers
+453,Female,51,91332,18,Executive,25.0,2,Married,Travel,3.6,3,29,1,45.8,729,3,Low-Engagement Customers
+444,Male,48,88767,13,Teacher,22.0,7,Married,Home & Living,3.5,4,9,1,25.8,666,3,Low-Engagement Customers
+440,Male,50,73432,28,Lawyer,25.0,6,Single,Sports,2.4,4,4,1,26.0,681,3,Low-Engagement Customers
+436,Male,37,39931,50,Teacher,16.0,5,Single,Books,2.3,5,0,1,38.6,706,3,Low-Engagement Customers
+434,Female,35,62163,17,Retired,13.0,7,Married,Sports,4.0,4,2,2,25.6,723,3,Low-Engagement Customers
+667,Male,46,53790,58,Lawyer,25.0,5,Married,Beauty,1.8,3,17,1,26.4,655,3,Low-Engagement Customers
+664,Female,43,56488,34,Doctor,17.0,4,Single,Beauty,3.7,3,41,1,32.3,684,3,Low-Engagement Customers
+657,Female,33,82753,10,Executive,9.0,7,Single,Beauty,1.6,5,16,1,32.9,658,3,Low-Engagement Customers
+432,Male,41,71130,31,Engineer,16.0,5,Married,Travel,3.2,1,7,2,22.9,643,3,Low-Engagement Customers
+426,Male,49,85927,9,Doctor,24.0,6,Married,Beauty,4.2,0,4,1,30.7,651,3,Low-Engagement Customers
+423,Male,49,66862,34,Student,23.0,4,Single,Groceries,3.5,4,62,1,23.1,657,3,Low-Engagement Customers
+417,Male,52,79169,18,Artist,39.0,6,Married,Beauty,3.8,3,6,3,20.7,710,3,Low-Engagement Customers
+411,Male,46,76338,10,Teacher,23.0,4,Married,Sports,1.5,4,0,2,36.7,665,3,Low-Engagement Customers
+410,Female,46,79949,16,Teacher,19.0,5,Divorced,Travel,6.9,4,14,1,45.2,756,3,Low-Engagement Customers
+397,Female,57,150600,36,Engineer,35.0,3,Married,Electronics,4.2,4,16,2,26.9,722,3,Low-Engagement Customers
+392,Female,49,88331,17,Lawyer,27.0,3,Single,Travel,7.2,5,10,1,29.0,687,3,Low-Engagement Customers
+390,Female,42,73861,32,Student,15.0,6,Single,Beauty,1.4,3,8,1,23.9,757,3,Low-Engagement Customers
+384,Female,55,69755,31,Teacher,32.0,7,Married,Home & Living,0.7,4,15,2,47.9,694,3,Low-Engagement Customers
+381,Female,38,99348,24,Engineer,11.0,6,Married,Electronics,0.0,0,1,1,32.5,711,3,Low-Engagement Customers
+376,Female,55,61575,6,Student,28.0,5,Divorced,Fashion,2.0,2,22,1,43.8,772,3,Low-Engagement Customers
+375,Male,61,62919,23,Lawyer,37.0,3,Single,Travel,2.6,4,13,1,31.2,695,3,Low-Engagement Customers
+374,Female,36,82631,39,Artist,16.0,6,Single,Fashion,4.8,1,8,3,50.1,653,3,Low-Engagement Customers
+680,Female,46,92775,26,Engineer,24.0,5,Single,Groceries,4.4,1,58,1,45.9,695,3,Low-Engagement Customers
+678,Female,48,69617,33,Retired,27.0,5,Single,Travel,5.0,2,0,1,38.1,719,3,Low-Engagement Customers
+363,Male,39,91820,18,Retired,14.0,6,Single,Groceries,0.0,1,5,1,41.5,743,3,Low-Engagement Customers
+359,Female,40,74660,63,Retired,21.0,6,Married,Fashion,1.7,5,28,1,27.9,698,3,Low-Engagement Customers
+357,Male,46,82513,17,Lawyer,21.0,5,Married,Home & Living,3.1,2,3,2,38.4,680,3,Low-Engagement Customers
+347,Male,58,74946,19,Executive,30.0,5,Single,Home & Living,4.0,0,32,1,32.5,659,3,Low-Engagement Customers
+342,Male,51,53258,58,Teacher,28.0,6,Single,Beauty,4.0,5,10,2,22.3,679,3,Low-Engagement Customers
+341,Female,45,95141,32,Teacher,24.0,5,Divorced,Fashion,4.1,2,7,1,39.1,713,3,Low-Engagement Customers
+325,Female,47,82523,46,Engineer,22.0,5,Divorced,Home & Living,0.6,3,14,1,37.8,709,3,Low-Engagement Customers
+309,Female,53,46341,30,Homemaker,30.0,6,Single,Books,1.9,4,7,2,26.0,731,3,Low-Engagement Customers
+308,Male,37,84376,18,Homemaker,11.0,5,Married,Beauty,1.8,5,18,1,28.9,630,3,Low-Engagement Customers
+704,Male,31,62906,29,Teacher,13.0,6,Single,Fashion,2.3,1,42,1,32.7,668,3,Low-Engagement Customers
+701,Female,45,83550,25,Entrepreneur,25.0,7,Single,Groceries,0.9,1,4,2,37.2,691,3,Low-Engagement Customers
+699,Female,44,84607,9,Lawyer,16.0,7,Married,Fashion,0.6,2,43,3,38.8,657,3,Low-Engagement Customers
+696,Female,50,73409,7,Lawyer,30.0,4,Married,Electronics,0.0,1,22,3,23.2,716,3,Low-Engagement Customers
+694,Female,40,91901,21,Executive,17.0,6,Single,Sports,3.9,4,20,2,27.2,762,3,Low-Engagement Customers
+693,Female,46,57263,23,Entrepreneur,25.0,5,Married,Groceries,0.1,1,0,1,30.4,726,3,Low-Engagement Customers
+691,Female,47,73605,17,Retired,29.0,3,Single,Groceries,6.6,2,16,2,33.9,682,3,Low-Engagement Customers
+690,Male,36,57937,41,Doctor,13.0,4,Single,Sports,5.6,2,6,1,32.9,641,3,Low-Engagement Customers
+303,Male,52,76286,14,Artist,30.0,4,Married,Books,8.4,4,10,3,30.6,622,3,Low-Engagement Customers
+299,Male,49,78649,28,Artist,28.0,3,Single,Electronics,2.1,6,3,3,16.4,695,3,Low-Engagement Customers
+298,Female,46,74982,25,Doctor,26.0,6,Single,Electronics,1.7,4,35,1,46.3,723,3,Low-Engagement Customers
+292,Male,49,91445,7,Homemaker,23.0,4,Single,Fashion,7.2,3,2,2,45.7,611,3,Low-Engagement Customers
+288,Male,50,82373,34,Homemaker,26.0,5,Married,Electronics,6.4,3,47,1,14.5,752,3,Low-Engagement Customers
+284,Male,55,93937,1,Teacher,33.0,5,Single,Electronics,2.6,5,3,1,55.2,720,3,Low-Engagement Customers
+273,Male,45,62201,48,Doctor,27.0,5,Married,Beauty,0.4,6,20,1,12.3,649,3,Low-Engagement Customers
+718,Female,53,95951,35,Doctor,31.0,6,Married,Beauty,3.0,2,6,1,24.3,718,3,Low-Engagement Customers
+715,Male,53,75149,1,Retired,33.0,4,Married,Travel,0.7,4,9,1,37.2,736,3,Low-Engagement Customers
+714,Female,52,77058,9,Homemaker,17.0,6,Single,Beauty,5.1,1,50,1,29.9,682,3,Low-Engagement Customers
+713,Female,47,91419,9,Lawyer,26.0,6,Married,Travel,6.0,3,4,1,52.9,619,3,Low-Engagement Customers
+712,Female,41,66722,25,Engineer,14.0,3,Married,Travel,6.0,5,17,1,33.5,753,3,Low-Engagement Customers
+706,Female,29,75937,36,Lawyer,4.0,6,Single,Groceries,5.4,1,40,1,46.0,743,3,Low-Engagement Customers
+705,Male,51,79803,14,Engineer,26.0,7,Single,Electronics,2.6,7,14,1,34.8,741,3,Low-Engagement Customers
+266,Female,48,86283,17,Student,27.0,7,Married,Fashion,3.3,3,3,3,44.5,708,3,Low-Engagement Customers
+263,Female,66,83101,20,Doctor,47.0,6,Divorced,Beauty,2.0,0,9,2,28.9,705,3,Low-Engagement Customers
+258,Male,55,78108,42,Entrepreneur,32.0,10,Married,Beauty,2.9,0,4,3,39.8,696,3,Low-Engagement Customers
+249,Male,43,77097,24,Lawyer,18.0,6,Single,Sports,0.9,3,0,3,34.9,676,3,Low-Engagement Customers
+244,Female,49,63988,35,Homemaker,25.0,5,Single,Home & Living,4.6,4,2,1,34.5,719,3,Low-Engagement Customers
+241,Male,44,76877,21,Lawyer,23.0,5,Married,Beauty,4.5,0,58,1,7.9,660,3,Low-Engagement Customers
+239,Male,53,74286,39,Entrepreneur,35.0,7,Married,Sports,4.6,0,30,2,37.2,749,3,Low-Engagement Customers
+236,Female,48,86166,19,Artist,24.0,3,Married,Electronics,1.8,3,15,2,24.9,649,3,Low-Engagement Customers
+228,Female,52,83429,10,Entrepreneur,32.0,4,Married,Electronics,2.8,4,30,1,44.3,694,3,Low-Engagement Customers
+227,Female,45,84447,31,Teacher,24.0,5,Married,Travel,1.0,4,2,2,35.6,726,3,Low-Engagement Customers
+215,Male,38,78900,23,Executive,13.0,6,Single,Fashion,0.9,0,14,1,32.4,672,3,Low-Engagement Customers
+214,Female,38,77618,26,Teacher,17.0,7,Married,Fashion,0.0,1,48,1,41.1,716,3,Low-Engagement Customers
+210,Female,49,58616,63,Doctor,28.0,4,Single,Home & Living,4.3,7,0,1,29.3,684,3,Low-Engagement Customers
+732,Female,58,73269,18,Lawyer,35.0,5,Married,Travel,2.6,1,6,1,35.8,735,3,Low-Engagement Customers
+731,Female,51,85885,40,Retired,30.0,7,Married,Electronics,2.5,2,13,3,51.6,618,3,Low-Engagement Customers
+723,Female,47,81024,23,Entrepreneur,25.0,6,Married,Sports,1.7,0,1,1,18.2,718,3,Low-Engagement Customers
+208,Female,57,83099,23,Teacher,39.0,7,Married,Fashion,1.7,3,21,1,25.4,681,3,Low-Engagement Customers
+205,Female,45,74653,7,Doctor,20.0,5,Single,Sports,3.1,3,3,2,26.4,723,3,Low-Engagement Customers
+202,Male,45,58572,17,Doctor,25.0,5,Married,Electronics,6.9,4,61,1,24.0,722,3,Low-Engagement Customers
+181,Female,50,83726,18,Entrepreneur,21.0,4,Married,Electronics,3.2,1,15,1,25.4,655,3,Low-Engagement Customers
+176,Male,46,70184,17,Doctor,26.0,6,Divorced,Travel,2.2,2,12,1,29.9,716,3,Low-Engagement Customers
+162,Male,65,80674,15,Doctor,40.0,6,Married,Travel,2.6,3,5,1,48.0,705,3,Low-Engagement Customers
+161,Female,46,85377,24,Entrepreneur,24.0,5,Married,Books,4.0,3,4,2,32.8,676,3,Low-Engagement Customers
+157,Male,56,90881,21,Executive,29.0,4,Single,Travel,3.2,2,3,2,31.6,667,3,Low-Engagement Customers
+151,Male,48,92654,21,Artist,19.0,7,Married,Groceries,2.6,1,9,2,36.5,633,3,Low-Engagement Customers
+144,Male,45,95698,26,Homemaker,25.0,4,Single,Books,0.1,3,9,2,30.9,755,3,Low-Engagement Customers
+143,Male,55,85306,5,Student,29.0,4,Married,Home & Living,2.9,4,15,1,42.8,721,3,Low-Engagement Customers
+141,Male,55,74372,8,Engineer,31.0,7,Married,Electronics,4.4,2,2,1,41.7,705,3,Low-Engagement Customers
+137,Male,55,70880,20,Artist,33.0,4,Single,Beauty,2.0,6,11,2,32.6,657,3,Low-Engagement Customers
+132,Male,55,89545,14,Homemaker,36.0,5,Single,Home & Living,4.7,6,3,1,20.5,654,3,Low-Engagement Customers
+750,Male,36,65765,27,Artist,13.0,6,Single,Travel,1.9,3,28,1,34.4,683,3,Low-Engagement Customers
+749,Female,50,71218,23,Entrepreneur,28.0,6,Married,Electronics,0.0,5,35,2,45.1,629,3,Low-Engagement Customers
+738,Female,54,79121,38,Doctor,28.0,7,Married,Books,3.8,4,20,2,26.7,659,3,Low-Engagement Customers
+737,Male,52,53401,18,Lawyer,26.0,5,Single,Beauty,2.5,0,71,2,24.5,609,3,Low-Engagement Customers
+127,Male,50,99585,47,Student,31.0,6,Divorced,Books,4.0,2,11,1,38.5,749,3,Low-Engagement Customers
+126,Male,51,78234,38,Homemaker,30.0,5,Married,Fashion,2.8,1,36,2,51.7,718,3,Low-Engagement Customers
+125,Male,50,86365,27,Executive,28.0,7,Married,Sports,0.2,5,5,1,37.3,699,3,Low-Engagement Customers
+122,Male,51,79279,30,Entrepreneur,29.0,5,Divorced,Home & Living,3.4,3,5,2,20.8,687,3,Low-Engagement Customers
+121,Female,49,85138,28,Teacher,23.0,5,Married,Travel,1.7,0,18,2,38.7,668,3,Low-Engagement Customers
+115,Female,45,85840,7,Lawyer,26.0,5,Married,Fashion,3.8,0,2,2,35.8,673,3,Low-Engagement Customers
+113,Male,35,43995,59,Artist,13.0,5,Single,Books,3.5,1,20,2,37.0,621,3,Low-Engagement Customers
+111,Female,46,69820,17,Engineer,29.0,3,Married,Books,3.1,2,1,1,45.0,666,3,Low-Engagement Customers
+106,Male,37,64530,12,Lawyer,13.0,7,Single,Groceries,0.4,1,0,3,37.7,754,3,Low-Engagement Customers
+103,Female,38,80023,19,Homemaker,15.0,6,Married,Groceries,4.7,3,70,1,30.6,722,3,Low-Engagement Customers
+97,Male,52,68690,11,Student,28.0,5,Married,Beauty,0.0,4,8,1,17.7,706,3,Low-Engagement Customers
+768,Female,49,64354,35,Artist,25.0,7,Married,Sports,5.3,2,46,3,27.3,689,3,Low-Engagement Customers
+764,Female,55,85156,27,Artist,33.0,6,Single,Home & Living,2.1,0,33,1,48.0,722,3,Low-Engagement Customers
+754,Female,46,150600,42,Teacher,23.0,3,Single,Sports,4.7,0,4,2,21.7,701,3,Low-Engagement Customers
+753,Male,64,98166,28,Artist,41.0,5,Single,Beauty,2.5,0,2,1,60.7,729,3,Low-Engagement Customers
+93,Male,65,73530,22,Student,45.0,4,Single,Sports,3.4,3,7,1,35.6,744,3,Low-Engagement Customers
+92,Male,46,64291,7,Doctor,19.0,7,Divorced,Fashion,8.7,4,15,3,0.5,658,3,Low-Engagement Customers
+91,Female,57,89854,26,Lawyer,31.0,5,Married,Sports,2.2,3,48,3,56.5,679,3,Low-Engagement Customers
+89,Female,43,59362,26,Retired,22.0,4,Married,Home & Living,5.1,2,9,1,31.5,617,3,Low-Engagement Customers
+77,Female,32,85971,13,Entrepreneur,7.0,5,Married,Books,6.5,3,22,2,42.1,699,3,Low-Engagement Customers
+76,Male,47,71578,38,Engineer,28.0,5,Married,Travel,4.2,1,2,2,37.9,711,3,Low-Engagement Customers
+46,Female,48,88597,25,Entrepreneur,19.0,7,Single,Fashion,5.7,2,47,1,25.1,723,3,Low-Engagement Customers
+43,Female,49,89504,1,Entrepreneur,22.0,3,Married,Fashion,4.1,2,1,3,32.0,710,3,Low-Engagement Customers
+36,Female,39,76826,23,Retired,15.0,6,Single,Electronics,3.1,6,17,1,48.8,748,3,Low-Engagement Customers
+34,Female,34,86494,14,Lawyer,10.0,6,Married,Groceries,1.6,2,8,1,24.7,647,3,Low-Engagement Customers
+33,Male,42,69363,30,Retired,17.0,4,Married,Groceries,2.9,2,6,2,45.6,694,3,Low-Engagement Customers
+780,Male,38,55593,45,Entrepreneur,18.0,3,Married,Beauty,4.6,4,4,1,53.2,667,3,Low-Engagement Customers
+779,Female,45,72666,25,Doctor,20.0,5,Single,Travel,3.7,2,16,2,45.9,706,3,Low-Engagement Customers
+778,Male,33,87304,29,Doctor,5.0,7,Divorced,Beauty,4.5,0,75,3,23.9,728,3,Low-Engagement Customers
+32,Male,52,68999,27,Student,37.0,5,Single,Fashion,0.0,3,16,2,32.5,653,3,Low-Engagement Customers
+29,Female,46,55283,45,Homemaker,30.0,3,Married,Groceries,0.1,5,38,1,37.2,765,3,Low-Engagement Customers
+23,Male,34,108398,1,Homemaker,16.0,8,Single,Travel,8.9,2,33,1,43.1,659,3,Low-Engagement Customers
+22,Female,39,108056,19,Lawyer,13.0,5,Married,Travel,5.0,2,13,1,30.0,755,3,Low-Engagement Customers
